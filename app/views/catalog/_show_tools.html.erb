@@ -1,0 +1,15 @@
+<div class="panel panel-default show-tools">
+  <div class="panel-heading">
+    <%= t('blacklight.tools.title') %>
+  </div>
+
+  <div class="panel-body">
+  <ul class="nav">
+      <li>
+        <%= render_show_doc_actions @document %>
+      </li>
+      <%= render "show_tools_ead" %>
+      <%= render "show_tools_standard" %>
+  </ul>
+  </div>
+</div>

@@ -1,0 +1,5 @@
+<% if @document[:finding_aid_url_s] and @document[:object_id_s] and not(@document[:unpaged_display]) -%>
+<li>
+  <%= link_to I18n.t('exploreuk.ead.guide'), catalog_path(@document[:object_id_s]) %>
+</li>
+<% end -%>

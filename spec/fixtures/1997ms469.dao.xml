@@ -1,0 +1,1190 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid>1997ms469</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Appleton Sturgis papers, 1862-1874
+                    <num>1997ms469</num>
+                </titleproper>
+                <titleproper type="filing">Sturgis, Appleton papers</titleproper>
+                <author>Finding aid prepared by Dorothy Houston</author>
+            </titlestmt>
+            <publicationstmt>
+                <p>
+                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://kdl.kyvl.org/images/seals/ukseal.gif"/>
+                </p>
+                <publisher>University of Kentucky Special Collections</publisher>
+                <address>
+                    <addressline>Special Collections</addressline>
+                    <addressline>Margaret I. King Building, North</addressline>
+                    <addressline>Lexington, KY, 40506-0039</addressline>
+                    <addressline>(859) 257-8611</addressline>
+                    <addressline>SCLREF@LSV.UKY.EDU</addressline>
+                </address>
+                <date>2013 January 27</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2014-06-25T10:37-0400</date>
+            </creation>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Appleton Sturgis papers</unittitle>
+            <unitid>1997ms469</unitid>
+            <repository>
+                <corpname>University of Kentucky Special Collections</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>0.45 Cubic Feet</extent>
+                <extent>72 items</extent>
+            </physdesc>
+            <unitdate>1862-1874</unitdate>
+            <abstract id="ref170" label="Abstract">The Appleton Sturgis papers (dated 1862-1874; 0.45 cubic feet; 72 items) consist of 70 letters written by Appleton Sturgis, who served for ten months on a Union transport steamer, the 
+                <title render="italic">Achilles</title>, in the Peninsular campaign in Virginia and Maryland.</abstract>
+            <origination label="creator">
+                <persname rules="aacr" source="local">Sturgis, Appleton, 1842-1900</persname>
+            </origination>
+        </did>
+        <bioghist id="ref22">
+            <head>Biographical note</head>
+            <p>Appleton Sturgis was born June 2, 1842, in Baltimore, Maryland. Immediate family includes father Captain Russell Sturgis, mother Margaret Sturgis (maiden name: Margaret Dawes Appleton), older brother Russell Sturgis, younger brother Edward Sturgis, and younger sister Kate Sturgis. The family’s home residence was located at 164 East 10th Street in Ward 17 District 9, New York, New York. Sturgis' father was involved in the family shipping company, Sturgis, Clearman and Co. The company was owned by Appleton Sturgis' uncle, William C. Sturgis, and George M. Clearman. During the Civil War, Sturgis served as a lieutenant aboard the Union transport steamer, 
+                <title render="italic">Achilles</title>, in the Peninsular Campaign, which spanned across Virginia and Maryland. In December of 1862, Sturgis was assigned to work for the Ordinance Office at the Headquarter for the Department of the Gulf, New Orleans, Louisiana, serving there for six months. His initial duty was as a clerk for the Ordinance Office, but he was later promoted to Assistant Chief of Ordinance. Sturgis joined the 3rd division of the 19th Army Corps after his service for the Ordinance Office was complete and was injured in the battle of Fort Hudson. After the war, Sturgis married Emily Lamb Elliot and had four children: Elizabeth, Russell, Dawes, and Arthur. Sturgis died in August of 1900.</p>
+        </bioghist>
+        <acqinfo id="ref169">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Gift, 1997</p>
+        </acqinfo>
+        <prefercite id="ref171">
+            <head>Preferred Citation note</head>
+            <p>1997ms469: [identification of item], Appleton Sturgis papers, 1862-1874, University of Kentucky Special Collections.</p>
+        </prefercite>
+        <scopecontent id="ref2">
+            <head>Scope and Contents note</head>
+            <p>The Appleton Sturgis papers (dated 1862-1874; 0.45 cubic feet; 72 items) consist of 70 letters written by Appleton Sturgis, who served for ten months on a Union transport steamer, the 
+                <title render="italic">Achilles</title>, in the Peninsular campaign in Virginia and Maryland. These lengthy letters contain detailed descriptions of military life, battles, strategy, and a variety of hand-drawn illustrations and maps. They also include Sturgis' personal observations of a tour of the ironclad 
+                <title render="italic">Monitor</title> (Box 1, Folder 19); of President Abraham Lincoln (Box 1, Folder 21); and various military personnel, including Admiral David Farragut, General Nathaniel P. Banks, General Benjamin Butler, General Ulysses S. Grant, and General William T. Sherman (Box 1, Folder 43). Sturgis also describes in these letters the work he does on behalf of his father, obtaining charters and certificates for company ships to be contracted out to the Union. Additionally, the collection includes one telegram and one general release document.</p>
+        </scopecontent>
+        <accessrestrict id="ref11">
+            <head>Conditions Governing Access note</head>
+            <p>Collection is open to researchers by appointment.</p>
+        </accessrestrict>
+        <arrangement id="ref164">
+            <head>Arrangement note</head>
+            <p>Collection is arranged chronologically.</p>
+        </arrangement>
+        <userestrict id="ref173">
+            <head>Conditions Governing Use note</head>
+            <p>Property rights reside with the University of Kentucky. The University of Kentucky holds the copyright for materials created in the course of business by University of Kentucky employees. Copyright for all other materials has not been assigned to the University of Kentucky. For information about permission to reproduce or publish, please contact Special Collections.</p>
+        </userestrict>
+        <controlaccess>
+            <persname rules="aacr" source="naf">Banks, Nathaniel Prentiss, 1816-1894</persname>
+            <persname rules="aacr" source="naf">Butler, Benjamin F.,  (Benjamin Franklin), 1818-1893</persname>
+            <persname rules="aacr" source="naf">Farragut, David Glasgow, 1801-1870</persname>
+            <persname rules="aacr" source="naf">Grant, Ulysses S., 1822-1885</persname>
+            <persname rules="aacr" source="naf">Lincoln, Abraham, 1809-1865</persname>
+            <persname rules="aacr" source="naf">Sherman, William T.,  (William Tecumseh), 1820-1891</persname>
+            <persname rules="aacr" source="local">Sturgis, Appleton, 1842-1900</persname>
+            <corpname rules="aacr" source="naf">United States. Army. Department of the Gulf (1862-1865).</corpname>
+            <geogname source="lcsh">Baltimore (Md.).</geogname>
+            <subject source="lcsh">Letters.</subject>
+            <genreform source="aat">Maps</genreform>
+            <geogname source="lcsh">New Orleans (La.)</geogname>
+            <subject source="lcsh">Peninsular Campaign, 1862</subject>
+            <subject source="lcsh">Soldiers--Correspondence.</subject>
+            <geogname source="lcsh">United States--History--Civil War, 1861-1865--Campaigns.</geogname>
+            <subject source="ingest">United States--History--Civil War, 1861-1865--Correspondence.</subject>
+            <geogname source="lcsh">United States--History--Civil War, 1861-1865--Equipment and supplies.</geogname>
+            <subject source="ingest">United States--History--Civil War, 1861-1865--Medical and sanitary affairs</subject>
+            <geogname source="lcsh">United States--History--Civil War, 1861-1865--Naval operations.</geogname>
+            <subject source="lcsh">United States--History--Civil War, 1861-1865.</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref4" level="file">
+                <did>
+                    <unittitle>Letter to Captain Russell Sturgis, aboard the 
+                        <title render="italic">Achilles</title>, Washington D.C.</unittitle>
+                    <container id="cid3644001" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid3644001" type="Folder">1</container>
+                    <unitdate>1862 March 18</unitdate>
+                <dao entityref="xt78sf2m7c9x_1_1"/></did>
+                <scopecontent id="ref5">
+                    <head>Scope and Contents note</head>
+                    <p>To Father. The 
+                        <title render="italic">Achilles</title> and crew are scheduled to depart from Washington for an unknown destination. The 
+                        <title render="italic">Townly</title> is to accompany them. Lieutenant Colonel Ingalls is among the crew, and friend of Sturgis. Provides a drawing of boats on the Potomac River, going past Alexandria. The 
+                        <title render="italic">South America</title> was lost on Hay Island upon it's return home. Gives an account of ships, and mentions 
+                        <title render="italic">May Queen</title>, 
+                        <title render="italic">Arrowsmith</title>, 
+                        <title render="italic">State of Miami</title>, 
+                        <title render="italic">Nanshon</title>, and 
+                        <title render="italic">Cononicus</title>. They were fired upon in Alexandria and Sturgis describes what happened. Relays that Major Tiffany, A. Quarter Master, and Major Perry of the 15th Regiment N.Y. wish to be remembered to his father.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref6" level="file">
+                <did>
+                    <unittitle>Letter to Margaret Sturgis, aboard the 
+                        <title render="italic">Achilles</title>, Washington D.C.</unittitle>
+                    <container id="cid3644002" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid3644002" type="Folder">2</container>
+                    <unitdate>1862 March 21</unitdate>
+                    <physdesc id="ref9" label="General Physical Description note">Page one of the letter is covered in a mylar sleeve due to poor condition.</physdesc>
+                <dao entityref="xt78sf2m7c9x_2_1"/></did>
+                <scopecontent id="ref7">
+                    <head>Scope and Contents note</head>
+                    <p>To Mother. The ship and crew are in Washington pending orders, though Sturgis does not think they are more likely to move anytime soon. Barges they were scheduled to tow were deemed not to be sea worthy, and now they only have the pon&amp;oacute;ten. Mentions Captain Hennessey and the steamer 
+                        <title render="italic">James Guy</title>. All boats ordered down to Alexandria, except for the 
+                        <title render="italic">Achilles</title> and 
+                        <title render="italic">Townley</title>. They were ordered to take on Gen. Franklin’s division to Fortress Monroe. Pistols fired off every morning 
+                        <emph render="doublequote">like the Fourth of July</emph>. Sturgis took time to see his cousins and aunt. Has not seen the 
+                        <title render="italic">Illinois</title>, 
+                        <title render="italic">May Queen</title>, or 
+                        <title render="italic">South America</title> in a while, and supposes they are lost.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref10" level="file">
+                <did>
+                    <unittitle>Letter to Margaret Sturgis, aboard the 
+                        <title render="italic">Achilles</title>, Washington D.C.</unittitle>
+                    <container id="cid3650001" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid3650001" type="Folder">3</container>
+                    <unitdate>1862 March 24</unitdate>
+                <dao entityref="xt78sf2m7c9x_3_1"/></did>
+                <scopecontent id="ref12">
+                    <head>Scope and Contents note</head>
+                    <p>To Mother. The
+                        <title render="italic">Achilles</title> and crew were docked in Alexandria, and scheduled to be ordered away Tuesday. Sturgis went to visit the city, and the 
+                        <title render="italic">Achilles</title> sent away to retrieve barges in his absence. Met Captain Wilson of the 
+                        <title render="italic">Nanshon</title> and watched regiments embark on the ships 
+                        <title render="italic">Metamora</title>, 
+                        <title render="italic">John Brooks</title>, 
+                        <title render="italic">Nanshon</title>, 
+                        <title render="italic">South America</title>, 
+                        <title render="italic">C. Vanderbuilt</title>, 
+                        <title render="italic">Arrowsmith</title>, and 
+                        <title render="italic">Kennebeck</title>. Gen. Smith’s division and a few thousand of McDowell’s men were among those who left. Sturgis makes the aquaintance of Captain Lopes, and discovers the 
+                        <title render="italic">Achilles</title> should be back before night, so he decided to wait on the 
+                        <title render="italic">Golden Gate</title>, but went aboard the 
+                        <title render="italic">West Kent</title> first to see Captain Kirby. Met a Mr. Clearman, son of Mr. C. on board the 
+                        <title render="italic">War Kent</title>. Mr. C. is likely George M. Clearman of Sturgis, Clearman, and Co. They eventually took a dispatch boat to Washington and met the 
+                        <title render="italic">Achilles</title>. 
+                        <title render="italic">May Queen</title> reported to be at Fort Monroe, the 
+                        <title render="italic">South American</title> reported to have left carrying troops, and the 
+                        <title render="italic">Illinois</title>, 
+                        <title render="italic">Long Branch</title>, and 
+                        <title render="italic">John Farrow</title> reported to have arrived safely.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref13" level="file">
+                <did>
+                    <unittitle>Letter to Captain Russell Sturgis, aboard 
+                        <title render="italic">Achilles</title>, Chesapeake Bay, VA.</unittitle>
+                    <container id="cid3650002" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid3650002" type="Folder">4</container>
+                    <unitdate>1862 March 26</unitdate>
+                <dao entityref="xt78sf2m7c9x_4_1"/></did>
+                <scopecontent id="ref14">
+                    <head>Scope and Contents note</head>
+                    <p>To Father. Travelling along the Chesapeake River, just passing Smith's Point on the way to Fort Monroe. Towing three schooners, the 
+                        <title render="italic">Mary Anna</title>, 
+                        <title render="italic">Dan C. Higins</title>, 
+                        <title render="italic">Joseph Home</title> and brig 
+                        <title render="italic">J.W. Drisko</title>, carrying a total of four companies of artillery; part of General Porter’s division. Ordered to follow steamer 
+                        <title render="italic">Washington Hunt</title>. Anchored at Swan Point to allow the 
+                        <title render="italic">Washington Hunt</title> to pass them due to its slowness. Sturgis met some soldiers from the Pennsylvania regiment in one of the schooners. The 
+                        <title render="italic">Achilles</title> eventually overtook the 
+                        <title render="italic">Washington Hunt</title> and towed them with the rest of the boats, and arrived at Fort Monroe. Illustration of how the 
+                        <title render="italic">Achilles</title> towed the seven vessels.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref15" level="file">
+                <did>
+                    <unittitle>Letter to Edward Sturgis, aboard the 
+                        <title render="italic">Achilles</title>, Potomac River, VA.</unittitle>
+                    <container id="cid3650003" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid3650003" type="Folder">5</container>
+                    <unitdate>1862 March 28</unitdate>
+                <dao entityref="xt78sf2m7c9x_5_1"/></did>
+                <scopecontent id="ref16">
+                    <head>Scope and Contents note</head>
+                    <p>To younger brother, Ed. The 
+                        <title render="italic">Achilles</title> is on its way towards Alexandria pulling two brigs and three schooners. While they were at Fort Monroe on Wednesday there were about 200 other vessels anchored. Toured the iron clad 
+                        <title render="italic">Monitor</title>, and mentions the 
+                        <title render="italic">Atlantic</title> and 
+                        <title render="italic">Vanderbuilt</title>. Sturgis had hoped the 
+                        <title render="italic">Merrimac</title> would show up, but it did not. During their stay at the fort, Sturgis took time to see the Union Gun and Lincoln Gun, which were pointed towards Norfolk. Describes four gunboats they passed in the bay.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref17" level="file">
+                <did>
+                    <unittitle>Letter to Margaret Sturgis, aboard the 
+                        <title render="italic">Achilles</title>, Alexandria, VA.</unittitle>
+                    <container id="cid3650004" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid3650004" type="Folder">6</container>
+                    <unitdate>1862 March 29</unitdate>
+                <dao entityref="xt78sf2m7c9x_6_1"/></did>
+                <scopecontent id="ref18">
+                    <head>Scope and Contents note</head>
+                    <p>To Mother. Sturgis writes about friends, relatives, and their whereabouts and doings. The 
+                        <title render="italic">Achilles</title> is at the docks awaiting orders. A letter came via Lieutenant Colonel Ingalls, who gave it to Major Tiffany, who gave it to Capt. Hennessey, who finally gave it to Sturgis. Inquires about photograph from Addie Foster. Captain Francis of the 
+                        <title render="italic">May Queen</title> visited the 
+                        <title render="italic">Achilles</title> and went with Captain Andrew. They passed the 
+                        <title render="italic">Arrowsmith</title> going down the river loaded with troops bound for Fort Monroe.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref19" level="file">
+                <did>
+                    <unittitle>Letter to Margaret Sturgis, aboard the 
+                        <title render="italic">Achilles</title>, entering the Chesapeake Bay, VA.</unittitle>
+                    <container id="cid3650005" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid3650005" type="Folder">7</container>
+                    <unitdate>1862 March 31</unitdate>
+                <dao entityref="xt78sf2m7c9x_7_1"/></did>
+                <scopecontent id="ref20">
+                    <head>Scope and Contents note</head>
+                    <p>To Mother. The 
+                        <title render="italic">Achilles</title> is on the way to Old Point with a tow. There was a heavy snow while they anchored at Mt. Vernon. They were delayed in their travel due to having to tow the 
+                        <title render="italic">Dency</title> and three schooners: the 
+                        <title render="italic">Jas. Johnson</title>, 
+                        <title render="italic">West Wind</title>, and 
+                        <title render="italic">R.S. Dean</title>, as well as two barges: the 
+                        <title render="italic">Wallkill</title> and 
+                        <title render="italic">Cedar Hill</title>. Sturgis mentions seeing the steamship 
+                        <title render="italic">Constitution</title> coming out from Alexandria, after obtaining General McClellan and his staff. Describes the cost of goods in Washington and what he has been spending.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref21" level="file">
+                <did>
+                    <unittitle>Letter to Captain Russell Sturgis, aboard the 
+                        <title render="italic">Achilles</title>, anchored below Fort Monroe, VA.</unittitle>
+                    <container id="cid3650006" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid3650006" type="Folder">8</container>
+                    <unitdate>1862 April 1</unitdate>
+                <dao entityref="xt78sf2m7c9x_8_1"/></did>
+                <scopecontent id="ref23">
+                    <head>Scope and Contents note</head>
+                    <p>To Father. The 
+                        <title render="italic">Achilles</title> left Alexandria with heavy tow and arrived at Fort Monroe. Q.M. Captain Hunt sent them off to assist the steamship 
+                        <title render="italic">Constitution</title>, who had run ashore on the Potomac. They then proceeded up the bay to Smith’s Point to locate ship, and met the 
+                        <title render="italic">Constitution</title>. Relays news that the 
+                        <title render="italic">Flushing</title> sunk March 28 or 29. Mentions seeing 
+                        <title render="italic">May Queen</title>, 
+                        <title render="italic">Arrowsmith</title>, 
+                        <title render="italic">Illinois</title>, 
+                        <title render="italic">Townley</title>, 
+                        <title render="italic">Nanshon</title>, 
+                        <title render="italic">John Brooks</title>, 
+                        <title render="italic">Elm City</title>, 
+                        <title render="italic">John Farrow</title>, 
+                        <title render="italic">Daniel Webster</title> at Fort Monroe. Most ships had troops on board and bound for Hampton.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref24" level="file">
+                <did>
+                    <unittitle>Letter to Margaret Sturgis, aboard the 
+                        <title render="italic">Achilles</title>, Potomac River, travelling to Alexandria, VA.</unittitle>
+                    <container id="cid3653001" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid3653001" type="Folder">9</container>
+                    <unitdate>1862 April 5</unitdate>
+                <dao entityref="xt78sf2m7c9x_9_1"/></did>
+                <scopecontent id="ref25">
+                    <head>Scope and Contents note</head>
+                    <p>To Mother. Travelling along the Potomac, just off Indian Head, on the way to Alexandria. Nine or ten heavy guns were fired at 
+                        <title render="italic">Achilles</title> from the shore north of Cherrystone Light, towing five schooners. Sturgis thinks it was possibly a U.S. Union battery who mistook the 
+                        <title render="italic">Achilles</title> for the enemy. The 
+                        <title render="italic">Cononicus</title> was stranded, and the 
+                        <title render="italic">Achilles</title> with the 
+                        <title render="italic">State of Miami</title> and 
+                        <title render="italic">Atlantic</title> try to pull out the ship with no success. Afterwards, they took the 
+                        <title render="italic">Handy</title>, 
+                        <title render="italic">Malony</title>, and three schooners in tow with them to Alexandria. Sturgis located the 20th Massachusetts and meets with friend, Nate Hayward.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref26" level="file">
+                <did>
+                    <unittitle>Letter to Captain Russell Sturgis, aboard the 
+                        <title render="italic">Achilles</title>, Alexandria.</unittitle>
+                    <container id="cid3653002" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid3653002" type="Folder">10</container>
+                    <unitdate>1862 April 6</unitdate>
+                <dao entityref="xt78sf2m7c9x_10_1"/></did>
+                <scopecontent id="ref27">
+                    <head>Scope and Contents note</head>
+                    <p>To Father. A rumor that rebel troops are nearby is circulating, and the Union only has 30,000 troops in Alexandria under General McDowell. General Hooker’s division is ready to move out in four days to the mouth of Rappahannock. The 
+                        <title render="italic">Elm City</title>, 
+                        <title render="italic">C. Vandervbuilt</title>, 
+                        <title render="italic">John Brooks</title> are located on the Maryland shore of the Potomac waiting for troops. Sturgis reports that General McClellan has 130,000 troops to march to Richmond, and he suspects there will be a fight at Norfolk. Describes finances, payment for crew, and repairs that will be done to ship.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref28" level="file">
+                <did>
+                    <unittitle>Letter to Margaret Sturgis, aboard the 
+                        <title render="italic">Achilles</title>, Shipping Point, VA.</unittitle>
+                    <container id="cid3654001" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid3654001" type="Folder">11</container>
+                    <unitdate>1862 April 15</unitdate>
+                <dao entityref="xt78sf2m7c9x_11_1"/></did>
+                <scopecontent id="ref29">
+                    <head>Scope and Contents note</head>
+                    <p>To Mother. 
+                        <title render="italic">Arrowsmith</title>, 
+                        <title render="italic">Elm City</title>, 
+                        <title render="italic">C. Vanderbuilt</title>, 
+                        <title render="italic">John Brooks</title>, 
+                        <title render="italic">Croten</title>, 
+                        <title render="italic">Sea Shore</title>, and 
+                        <title render="italic">R.J. Spalding</title> transporting troops and on the way to Alexandria to get more. General McClellan and 60,000 troops have rebel forces surrounded and trapped near Yorktown. General Franklin’s division started to arrive, and gunboats are waiting up York river. Sturgis describes the 100,000 men and wagons that stretched four miles long, the conversation he had with men from the 69th New York about their movements, and General McClellan’s narrow escape from a rebel trap. He also lists the acquaintances he has made that may be useful for his future in the shipping business, and some of the jobs the 
+                        <title render="italic">Achilles</title> and the crew have been doing. Transcription of a copy of an incident report.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref30" level="file">
+                <did>
+                    <unittitle>Letter to Captain Russell Sturgis, aboard the 
+                        <title render="italic">Achilles</title>, Alexandria, VA.</unittitle>
+                    <container id="cid3654002" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid3654002" type="Folder">12</container>
+                    <unitdate>1862 April 17</unitdate>
+                <dao entityref="xt78sf2m7c9x_12_1"/></did>
+                <scopecontent id="ref31">
+                    <head>Scope and Contents note</head>
+                    <p>To Father. Around 300 boats waiting in the river waiting for troops, including the 
+                        <title render="italic">Constitution</title>. Sturgis describes his visits with family: Aunt Kate, Aunt Lottie, and Uncle Charles. General Franklin’s division leaves the city to go support General McClellan, and Sturgis describes their send off, including the band and songs that played. He also discusses the strength of the rebels in Yorktown, possible battle strategies or siege, and the troops high opinion of General McClellan. During this time, one of the crew members lost a toe in an accident while oiling the engine.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref32" level="file">
+                <did>
+                    <unittitle>Letter to Margaret Sturgis, Washington D.C.</unittitle>
+                    <container id="cid3654003" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid3654003" type="Folder">13</container>
+                    <unitdate>1862 April 20</unitdate>
+                <dao entityref="xt78sf2m7c9x_13_1"/></did>
+                <scopecontent id="ref33">
+                    <head>Scope and Contents note</head>
+                    <p>To Mother. Sturgis left the 
+                        <title render="italic">Achilles</title> for a few days to finish up business about the charter for his father, and is staying at his Aunt Lottie’s residence. Describes what he has been doing while on land, and asks after the rest of the family and whether they dyed eggs for Easter Sunday.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref34" level="file">
+                <did>
+                    <unittitle>Letter to Margaret Sturgis, Washington D.C.</unittitle>
+                    <container id="cid3654004" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid3654004" type="Folder">14</container>
+                    <unitdate>1862 April 23</unitdate>
+                <dao entityref="xt78sf2m7c9x_14_1"/></did>
+                <scopecontent id="ref35">
+                    <head>Scope and Contents note</head>
+                    <p>To Mother. Sturgis mailed his father the certificate and charter, and telegraphed to inform him. Visited the Capitol, President’s House, Patent Office, and Smithsonian Institute. Relays that Richmond may be won before Yorktown. General McDowell is marching upon Richmond, while General Franklin and General McCall are at the mouth of Rappahannock to march across the York river. Describes possible military strategies, and issues they may face with rebels.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref36" level="file">
+                <did>
+                    <unittitle>Letter to Edward Sturgis, Washington D.C.</unittitle>
+                    <container id="cid3654005" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid3654005" type="Folder">15</container>
+                    <unitdate>1862 April 23</unitdate>
+                <dao entityref="xt78sf2m7c9x_15_1"/></did>
+                <scopecontent id="ref38">
+                    <head>Scope and Contents note</head>
+                    <p>To younger brother, Ed. Sturgis is waiting for the 
+                        <title render="italic">Achilles</title> to return, and estimates 7-10 days passage from Alexandria to Ship Point or Fort Monroe. Writes about fishing, the price of fish, and life on the Seim. Asks about friends, including one killed at Pittsburg Landing, his older brother, Russ, and Uncle William. Requests to be sent fishing hooks, and provides a drawing of the hooks he wants.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref39" level="file">
+                <did>
+                    <unittitle>Letter to Margaret Sturgis, Washington D.C.</unittitle>
+                    <container id="cid3654006" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid3654006" type="Folder">16</container>
+                    <unitdate>1862 April 27</unitdate>
+                <dao entityref="xt78sf2m7c9x_16_1"/></did>
+                <scopecontent id="ref40">
+                    <head>Scope and Contents note</head>
+                    <p>To Mother. Sturgis expects the 
+                        <title render="italic">Achilles</title> to return that day, and is travelling to Alexandria to meet it. Complains of life on shore, and his desire to be back at sea. Acquainted himself with the Captain of the 
+                        <title render="italic">Saturn</title>. Visited cousins, Callie and Emma Kassen, and Aunts, Kate and Lottie. Wrote a personal letter for a deck hand who could not write. Asks about new clothes and handkerchiefs.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref41" level="file">
+                <did>
+                    <unittitle>Letter to Captain Russell Sturgis, at the docks waiting for 
+                        <title render="italic">Achilles</title>,Washington D.C..</unittitle>
+                    <container id="cid3654007" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid3654007" type="Folder">17</container>
+                    <unitdate>1862 April 27</unitdate>
+                <dao entityref="xt78sf2m7c9x_17_1"/></did>
+                <scopecontent id="ref42">
+                    <head>Scope and Contents note</head>
+                    <p>To Father. Preparing to travel to Cape Henry. Sturgis describes his dissatisfaction with the ship’s cook and requests that his father send them a better one from New York. Sturgis is unsure of what the ships movement will be, since orders are given on very short notice. The boiler blew out, and had to be repaired. The ship's whisky supply ran out at Ship Point, and Sturgis sent a request for more. Father approved of certificate.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref43" level="file">
+                <did>
+                    <unittitle>Letter to Margaret Sturgis, aboard the 
+                        <title render="italic">Achilles</title>, Chesapeake Bay, VA.</unittitle>
+                    <container id="cid3654008" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid3654008" type="Folder">18</container>
+                    <unitdate>1862 May 2</unitdate>
+                <dao entityref="xt78sf2m7c9x_18_1"/></did>
+                <scopecontent id="ref44">
+                    <head>Scope and Contents note</head>
+                    <p>To Mother. The 
+                        <title render="italic">Achilles</title> will be at Fort Monroe by tomorrow. Sturgis attempted to find a new cook in Washington, but had no success. The ship was ordered to tow several vessels bound for Hatteras: 
+                        <title render="italic">Condor</title>, 
+                        <title render="italic">Susan Duncan</title>, four schooners 
+                        <title render="italic">G.C. Morris</title>, 
+                        <title render="italic">Dean G. Higgins</title>, 
+                        <title render="italic">Maryland</title>, and 
+                        <title render="italic">John Farrow</title>. The vessels held troops for part of Van Allen’s, 3rd New York Cavalry, and the 
+                        <title render="italic">Achilles</title> is scheduled to stop at Fort Monroe to pick up soldiers from General Wools to reinforce General Burnside. The 
+                        <title render="italic">Achilles</title> is currently under the order of Lieutenant Colonel Mix and staff, who are aboard the 
+                        <title render="italic">John Farrow</title>. Sturgis describes the men of the 3rd N.Y. Cavalry, and how they drill and spar on the decks of the ships. While the ship and crew were anchored at Piney Point, they took leisure time and ate oysters.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref45" level="file">
+                <did>
+                    <unittitle>Letter to Captain Russell Sturgis, aboard the 
+                        <title render="italic">Achilles</title>, Fort Monroe, VA.</unittitle>
+                    <container id="cid3654009" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid3654009" type="Folder">19</container>
+                    <unitdate>1862 May 4-5</unitdate>
+                <dao entityref="xt78sf2m7c9x_19_1"/></did>
+                <scopecontent id="ref47">
+                    <head>Scope and Contents note</head>
+                    <p/>
+                </scopecontent>
+            </c01>
+            <c01 id="ref48" level="file">
+                <did>
+                    <unittitle>Letter to Margaret Sturgis, aboard the 
+                        <title render="italic">Achilles</title>, Hatteras, NC.</unittitle>
+                    <container id="cid3668001" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid3668001" type="Folder">20</container>
+                    <unitdate>1862 May 7</unitdate>
+                <dao entityref="xt78sf2m7c9x_20_1"/></did>
+                <scopecontent id="ref49">
+                    <head>Scope and Contents note</head>
+                    <p>To Mother. 
+                        <title render="italic">Achilles</title> is named Flagship of the Hatteras Expedition. They were ordered to drop their tows at Cape Henry, and then return to Ft. Monroe, however Colonel Mix requested to have the 
+                        <title render="italic">Achilles</title> under his orders for a while longer, and the ship and crew will continue to follow the orders of Colonel Mix. Sturgis transcribed a copy of the order the ship and crew were given.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref50" level="file">
+                <did>
+                    <unittitle>Letter to Margaret Sturgis, aboard the 
+                        <title render="italic">Achilles</title>, Fort Monroe, VA.</unittitle>
+                    <container id="cid3668002" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid3668002" type="Folder">21</container>
+                    <unitdate>1862 May 11</unitdate>
+                <dao entityref="xt78sf2m7c9x_21_1"/></did>
+                <scopecontent id="ref51">
+                    <head>Scope and Contents note</head>
+                    <p>To Mother. Sturgis just returned from Norfolk, which was taken by Union forces. The 
+                        <title render="italic">Achilles</title> was ordered up to Norfolk shortly after the city was taken, and was the second ship to arrive after the 
+                        <title render="italic">Victory</title>. As the ship travelled up Sewells Point, they passed President Abraham Lincoln aboard the steamer 
+                        <title render="italic">King Phillip</title>. The crew gave the president three cheers as they went by, and President Abraham Lincoln took off his hat and bowed. Sturgis describes the celebration when they arrived in the city, and the view of the guns on Canary Island. Upon passing the 
+                        <title render="italic">Monitor</title> Sturgis found out from the crew that the 
+                        <title render="italic">Merrimack</title> was sunk just below Canary Island. Sturgis describes what the crew of the 
+                        <title render="italic">Monitor</title> said about the battle that occurred as well as the look and price of various food items after going ashore and the appearance of the city.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref52" level="file">
+                <did>
+                    <unittitle>Letter to Captain Russell Sturgis, aboard the 
+                        <title render="italic">Achilles</title>, Fort Monroe, VA.</unittitle>
+                    <container id="cid3668003" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid3668003" type="Folder">22</container>
+                    <unitdate>1862 May 14</unitdate>
+                <dao entityref="xt78sf2m7c9x_22_1"/></did>
+                <scopecontent id="ref53">
+                    <head>Scope and Contents note</head>
+                    <p>To Father. The 
+                        <title render="italic">Achilles</title> is in the process of coaling up for a trip to Baltimore, and will be towing the 
+                        <title render="italic">Nelly Baker</title> to repair leaks after it ran ashore. Richmond was taken and the city surrendered to the 
+                        <title render="italic">Monitor</title> and 
+                        <title render="italic">Galena</title>. The rebel army is in a trap. The news may change the direction of the 
+                        <title render="italic">Achilles</title>, and they may possibly be sent up river towards Richmond. Sturgis assures father he will work on getting a second charter certificate.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref54" level="file">
+                <did>
+                    <unittitle>Letter to Captain Russell Sturgis, aboard the 
+                        <title render="italic">Achilles</title>, Hampton Roads, VA.</unittitle>
+                    <container id="cid3668004" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid3668004" type="Folder">23</container>
+                    <unitdate>1862 May 14</unitdate>
+                <dao entityref="xt78sf2m7c9x_23_1"/></did>
+                <scopecontent id="ref55">
+                    <head>Scope and Contents note</head>
+                    <p>To Father. The 
+                        <title render="italic">Achilles</title> received official written orders to tow the 
+                        <title render="italic">Nelly Baker</title> to Baltimore and report to Major James Belger to receive barges, but they were delayed until the next day. Sturgis spoke to Captain Thomas about the certificate, and he will go from Baltimore to Washington to get the certificate while repairs are being done to the ship. Sturgis goes on to further discuss charter business and dates. The crew is getting homesick, and Sturgis does not think they will stay after their contract months are up.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref56" level="file">
+                <did>
+                    <unittitle>Letter to Margaret Sturgis, aboard the 
+                        <title render="italic">Achilles</title>, Chesapeake Bay, VA.</unittitle>
+                    <container id="cid3668005" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid3668005" type="Folder">24</container>
+                    <unitdate>1862 May 15</unitdate>
+                <dao entityref="xt78sf2m7c9x_24_1"/></did>
+                <scopecontent id="ref57">
+                    <head>Scope and Contents note</head>
+                    <p/>
+                </scopecontent>
+            </c01>
+            <c01 id="ref58" level="file">
+                <did>
+                    <unittitle>Letter to Captain Russell Sturgis, aboard the 
+                        <title render="italic">Achilles</title>, Chesapeake Bay, VA.</unittitle>
+                    <container id="cid3668006" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid3668006" type="Folder">25</container>
+                    <unitdate>1862 May 15-16</unitdate>
+                <dao entityref="xt78sf2m7c9x_25_1"/></did>
+                <scopecontent id="ref59">
+                    <head>Scope and Contents note</head>
+                    <p>To Father. May 15: Currently in the Chesapeake Bay, and Captain Andrews arrived safely. Sturgis will pay some of the crew tomorrow and discusses the possibility of getting new hands to replace those that leave when their time is up. Notes that all mail going to Old Point is opened by the Provost Guard, and lists things he needs to purchase for the ship. May 16: Sturgis arrived in Baltimore, reported to Q.M. Major Belger, and then went to the government ship yard to have boiler repairs on the 
+                        <title render="italic">Achilles</title>, which should take two to three days. Sturgis requests more money from father and lists his expenses. Will send a telegraph to father explaining where to send money.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref60" level="file">
+                <did>
+                    <unittitle>Telegram to Captain Russell Sturgis.</unittitle>
+                    <container id="cid3668007" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid3668007" type="Folder">26</container>
+                    <unitdate>1862 May 16</unitdate>
+                <dao entityref="xt78sf2m7c9x_26_1"/></did>
+                <scopecontent id="ref61">
+                    <head>Scope and Contents note</head>
+                    <p>To Father. The telegram reads: City Department, American Telegraph Company, General Office, 145 Broadway, with a disclaimer and the charge amount for transmissions underneath. Received at the New-York Hotel, May 16 1862. From Sturgis to his father requesting money be sent to him via Mrs. Burnaps. The back of the telegraph features a map of New York City Stations for the American Telegraph Co.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref62" level="file">
+                <did>
+                    <unittitle>Letter to Captain Russell Sturgis, Baltimore, MD.</unittitle>
+                    <container id="cid3668008" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid3668008" type="Folder">27</container>
+                    <unitdate>1862 May 18</unitdate>
+                <dao entityref="xt78sf2m7c9x_27_1"/></did>
+                <scopecontent id="ref63">
+                    <head>Scope and Contents note</head>
+                    <p/>
+                </scopecontent>
+            </c01>
+            <c01 id="ref64" level="file">
+                <did>
+                    <unittitle>Letter to Margaret Sturgis, Baltimore, MD.</unittitle>
+                    <container id="cid3668009" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid3668009" type="Folder">28</container>
+                    <unitdate>1862 May 19</unitdate>
+                <dao entityref="xt78sf2m7c9x_28_1"/></did>
+                <scopecontent id="ref65">
+                    <head>Scope and Contents note</head>
+                    <p/>
+                </scopecontent>
+            </c01>
+            <c01 id="ref66" level="file">
+                <did>
+                    <unittitle>Letter to Margaret Sturgis, aboard the 
+                        <title render="italic">Achilles</title>, White House, VA.</unittitle>
+                    <container id="cid3668010" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid3668010" type="Folder">29</container>
+                    <unitdate>1862 May 22</unitdate>
+                <dao entityref="xt78sf2m7c9x_29_1"/></did>
+                <scopecontent id="ref67">
+                    <head>Scope and Contents note</head>
+                    <p/>
+                </scopecontent>
+            </c01>
+            <c01 id="ref68" level="file">
+                <did>
+                    <unittitle>Letter to Captain Russell Sturgis, aboard the 
+                        <title render="italic">Achilles</title>, White House, VA.</unittitle>
+                    <container id="cid3668011" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid3668011" type="Folder">30</container>
+                    <unitdate>1862 May 22</unitdate>
+                <dao entityref="xt78sf2m7c9x_30_1"/></did>
+                <scopecontent id="ref69">
+                    <head>Scope and Contents note</head>
+                    <p>To Father. Several boats have been sent home. The 
+                        <title render="italic">Achilles</title> will be sent up James River eventually. Major Belger made a request for the ship to be sent to Baltimore. Sturgis has not heard much news about the other ships, only the 
+                        <title render="italic">May Queen</title> and 
+                        <title render="italic">Herald</title>.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref70" level="file">
+                <did>
+                    <unittitle>Letter to Margaret Sturgis, aboard the 
+                        <title render="italic">Achilles</title>, White House, VA.</unittitle>
+                    <container id="cid3668012" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid3668012" type="Folder">31</container>
+                    <unitdate>1862 May 24</unitdate>
+                <dao entityref="xt78sf2m7c9x_31_1"/></did>
+                <scopecontent id="ref71">
+                    <head>Scope and Contents note</head>
+                    <p>To Mother. Sturgis volunteered as an A.D.C. with Mrs. Balestien and Iriss Bradley, friends of his mother’s, on board the 
+                        <title render="italic">Elm City</title>. Remarks that tending to wounded soldiers is not appropriate work for ladies and discusses learning how to do his own laundry. Weather has been hot, and the water is making the crew sick.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref72" level="file">
+                <did>
+                    <unittitle>Letter to Captain Russell Sturgis, aboard the 
+                        <title render="italic">Achilles</title>, White House VA.</unittitle>
+                    <container id="cid3668013" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid3668013" type="Folder">32</container>
+                    <unitdate>1862 May 25</unitdate>
+                <dao entityref="xt78sf2m7c9x_32_1"/></did>
+                <scopecontent id="ref73">
+                    <head>Scope and Contents note</head>
+                    <p>To Father. Sturgis decided to stay aboard the 
+                        <title render="italic">Elm City</title> and help with the wounded. Relays to father that Mr. Weed is returning home, and apologizes for the delay. More boats are returning home; the 
+                        <title render="italic">Secor</title> and 
+                        <title render="italic">Nantucket</title> have already gone, and the 
+                        <title render="italic">Pioneer</title>, 
+                        <title render="italic">Columbia</title>, and 
+                        <title render="italic">Catskill</title> will follow soon.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref74" level="file">
+                <did>
+                    <unittitle>Letter to Margaret Sturgis, aboard the 
+                        <title render="italic">Achilles</title>, White House, VA.</unittitle>
+                    <container id="cid3668014" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid3668014" type="Folder">33</container>
+                    <unitdate>1862 May 27</unitdate>
+                <dao entityref="xt78sf2m7c9x_33_1"/></did>
+                <scopecontent id="ref75">
+                    <head>Scope and Contents note</head>
+                    <p>To Mother. The sick men were moved from the 
+                        <title render="italic">Elm City</title> and only the very sick were not moved. Sturgis attends a soldier's funeral, and upon returning received orders from Colonel Ingalls to move all men aboard the 
+                        <title render="italic">Knickerbocker</title>. Describes the confusion from none of the men knowing how to proceed, which forced Sturgis to take charge and give orders, and was then appointed Ward Master. He lists some of the remedies given to the soldiers, such as brandy punch, milk punch, beef tea, and explaines how they were administered. The 
+                        <title render="italic">Daniel Webster </title>arrived from New York safely.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref76" level="file">
+                <did>
+                    <unittitle>Letter to Margaret Sturgis, aboard the floating hospital ship 
+                        <title render="italic">Knickerbocker</title>, White House, VA.</unittitle>
+                    <container id="cid3668015" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid3668015" type="Folder">34</container>
+                    <unitdate>1862 May 29</unitdate>
+                <dao entityref="xt78sf2m7c9x_34_1"/></did>
+                <scopecontent id="ref77">
+                    <head>Scope and Contents note</head>
+                    <p>To Mother. The United States transport and headquarters of the sanitary commission, currently laying the Panduskey River, two miles below the White House, VA. Sturgis thinks the patients have seen good results from his nursing, and believes many of the patients will be sent home. Visited the 
+                        <title render="italic">Achilles</title> while it was being painted.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref78" level="file">
+                <did>
+                    <unittitle>Letter to Margaret Sturgis, aboard the 
+                        <title render="italic">Achilles</title>, White House, VA.</unittitle>
+                    <container id="cid3668016" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid3668016" type="Folder">35</container>
+                    <unitdate>1862 June 1</unitdate>
+                <dao entityref="xt78sf2m7c9x_35_1"/></did>
+                <scopecontent id="ref79">
+                    <head>Scope and Contents note</head>
+                    <p>To Mother. Sturgis describes nursing and watching patients all week and lists things he needs from the commissary stores. The crew of the 
+                        <title render="italic">Achilles</title> went aboard the 
+                        <title render="italic">Daniel Webster</title> to prepare it for sick and wounded men to be brought aboard. Head of Commission, Mr. Olmstead, and Dr. Knapp headed the project, and ordered Sturgis to act as Quarter Master. Sturgis describes the surgeons, doctors, and ward masters on the ships for the wounded. He also provides a copy of the list given to Dr. Knapp regarding the preperations, and provides names of people from New York he met while working. Sturgis asks his mother to remember him tomorrow for his 20th birthday.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref80" level="file">
+                <did>
+                    <unittitle>Letter to Captain Russell Sturgis, aboard the 
+                        <title render="italic">Achilles</title>, White House, VA.</unittitle>
+                    <container id="cid3668017" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid3668017" type="Folder">36</container>
+                    <unitdate>1862 June 1</unitdate>
+                <dao entityref="xt78sf2m7c9x_36_1"/></did>
+                <scopecontent id="ref81">
+                    <head>Scope and Contents note</head>
+                    <p>To Father. Sturgis engaged another two men to replace the ones that left but still needs a deckhand and engineer. The crew is well and satisfied, and the cooks are clean and use up the stores efficiently. Sturgis thinks they will be staying until Richmond is taken and then ordered up the James River. He has decided to wait on the third certificate, since the ship may be sent home. The decks of the ship began to open from the heat and had to be varnished. Sturgis expects a great battle will soon commence, based on the amount of wounded men coming in every hour.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref82" level="file">
+                <did>
+                    <unittitle>Letter to Captain Russell Sturgis, aboard the 
+                        <title render="italic">Achilles</title>, White House, VA.</unittitle>
+                    <container id="cid3668018" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid3668018" type="Folder">37</container>
+                    <unitdate>1862 June 5</unitdate>
+                <dao entityref="xt78sf2m7c9x_37_1"/></did>
+                <scopecontent id="ref83">
+                    <head>Scope and Contents note</head>
+                    <p>To Father. The 
+                        <title render="italic">Achilles</title> has been idle in the river, occasionally running to Cumberland, West Point, and Yorktown. Captain Andrews wants the ship to continue working throughout the summer. Sturgis has fallen ill, but will send a memorandum of May expenses soon. Provides a list of amounts paid to dismissed men, amounts he paid to others, and will send a list of the current crew later. Inquires about the money for the second certificate.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref84" level="file">
+                <did>
+                    <unittitle>Letter to Margaret Sturgis, aboard the 
+                        <title render="italic">North Star</title>, Baton Rouge, LA.</unittitle>
+                    <container id="cid3668019" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid3668019" type="Folder">38</container>
+                    <unitdate>1862 December 18-19</unitdate>
+                <dao entityref="xt78sf2m7c9x_38_1"/></did>
+                <scopecontent id="ref85">
+                    <head>Scope and Contents note</head>
+                    <p>To Mother. December 18: General Banks and staff entered the steamer to go up to the city. General Banks appointed to succeed General Butler. When they reached the levee Lieutenant Hill received orders to establish a depot at Baton Rouge, and ordered to take possession of the Ordinance Office. Sturgis visited the new St. Charles Hotel, and later met with with Colonel Chickering to volunteer for the 1st Massachusett. He describes his uniform and what occured during drill. Illustrated map of the area near Baton Rouge where the battle field was located. December 19: Sturgis was kept awake with false alarms throughout the night and describes sleeping in the field. The 
+                        <title render="italic">Pocahontas</title> arrived with stores and horses.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref86" level="file">
+                <did>
+                    <unittitle>Letter to Margaret Sturgis, Ordinance Office, New Orleans, LA.</unittitle>
+                    <container id="cid3676001" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid3676001" type="Folder">39</container>
+                    <unitdate>1863 January 1-2</unitdate>
+                <dao entityref="xt78sf2m7c9x_39_1"/></did>
+                <scopecontent id="ref87">
+                    <head>Scope and Contents note</head>
+                    <p>To Mother. Sturgis returned to New Orleans from Baton Rouge, and will now take up duties at the Ordinance Office for the Headquarters of the Department of the Gulf. Discusses money and his expenditures, and asks his mother to send clothing, describing in detail what she should send and what the the clothes should look like. Gives opinions on the importance of the Union Depot in New Orleans, and other stations that have been established. Writes about daily duties, and gives a map of the medical director’s office.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref88" level="file">
+                <did>
+                    <unittitle>Letter to Margaret Sturgis, Ordinance Office, New Orleans, LA.</unittitle>
+                    <container id="cid3676002" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid3676002" type="Folder">40</container>
+                    <unitdate>1863 January 5-6</unitdate>
+                <dao entityref="xt78sf2m7c9x_40_1"/></did>
+                <scopecontent id="ref89">
+                    <head>Scope and Contents note</head>
+                    <p>To Mother. January 5: Sturgis gives a detailed account of the battle at Galveston: all the soldiers in the 240th were killed, and the 
+                        <title render="italic">Westfield</title> ran aground and was blown up by the 
+                        <title render="italic">Mary Bradshaw</title>, killing Commander Renshaw and his officers. Sturgis lists the ships lost in the battle and the number of men killed. January 6: The Ordinance Office was nearly blown up the previous night. Sturgis describes how the plot to destroy it was discovered and foiled. Sturgis provides drawing of store room area; explains what weaponry was there and its value; and describes how the bomb was made.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref90" level="file">
+                <did>
+                    <unittitle>Letter to Margaret Sturgis, Ordinance Office, New Orleans, LA.</unittitle>
+                    <container id="cid3676003" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid3676003" type="Folder">41</container>
+                    <unitdate>1863 January 13</unitdate>
+                <dao entityref="xt78sf2m7c9x_41_1"/></did>
+                <scopecontent id="ref91">
+                    <head>Scope and Contents note</head>
+                    <p>To Mother. Sturgis dismissed some staff after the near explosion, has taken sole charge of the storehouse, and describes the difficulty of running it. Received telegrams from Brunswick Bay requesting ammunition and thinks there may be an attack soon. General McClellan has been appointed to command. Sturgis requests to be sent maps of Port Hudson, Vicksburg, and Mobile. Describes how scraps of paper and torn bill are passing for money.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref92" level="file">
+                <did>
+                    <unittitle>Letter to Margaret Sturgis, Ordinance Office, New Orleans, LA.</unittitle>
+                    <container id="cid3676004" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid3676004" type="Folder">42</container>
+                    <unitdate>1863 January 19th</unitdate>
+                <dao entityref="xt78sf2m7c9x_42_1"/></did>
+                <scopecontent id="ref93">
+                    <head>Scope and Contents note</head>
+                    <p>To Mother. General Weitzel has advanced on the 13th from Brunswick Bay to find out confederate whereabouts and destroy the gunboat 
+                        <title render="italic">Cotton</title>. General Emery’s division under orders to move out, and Sturgis gives an account of what the army is doing. Sturgis describes the difference between General Banks and General Butler and complains about the high cost of goods in the south. The 
+                        <title render="italic">Sparkling Sea</title> went ashore on the reefs of Florida. Rumors that the rebel ship 
+                        <title render="italic">Alabama</title> captured the union ship 
+                        <title render="italic">Roanoke</title>. Sturgis is rooming in a house with some soldiers and describes the living situation.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref94" level="file">
+                <did>
+                    <unittitle>Letter to Margaret Sturgis, Ordinance Office, New Orleans, LA.</unittitle>
+                    <container id="cid3676005" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid3676005" type="Folder">43</container>
+                    <unitdate>1863 January 24-27</unitdate>
+                    <physdesc id="ref99" label="General Physical Description note">Page one of the letter is covered in a mylar sleeve due to poor condition and some disintegration.</physdesc>
+                <dao entityref="xt78sf2m7c9x_43_1"/></did>
+                <scopecontent id="ref95">
+                    <head>Scope and Contents note</head>
+                    <p>To Mother. January 24: Sturgis requests to be sent military style clothing for work and a number of other items, describing in detail what the uniform should look like, down to the details on the buttons. Provides a lists the names of the officers he is living with and transcribes a verse of the song 
+                        <title render="italic">Bonnie Blue Flag</title>. Sturgis describes his dislike for General Sherman's character when the general visits the Ordinance Office, and quotes what General Sherman said to him and to Lieutenant Hill. January 27: Sturgis asks to be sent a rubber blanket and leather straps; provides an illustration of a knapsack with straps.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref96" level="file">
+                <did>
+                    <unittitle>Letter to Captain Russell Sturgis, Ordinance Office, New Orleans, LA.</unittitle>
+                    <container id="cid3676006" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid3676006" type="Folder">44</container>
+                    <unitdate>1863 February 3</unitdate>
+                <dao entityref="xt78sf2m7c9x_44_1"/></did>
+                <scopecontent id="ref97">
+                    <head>Scope and Contents note</head>
+                    <p>To older brother, Russ. The department has been busy, and officers are coming and going all the time with requisitions, invoices, and receipts. Sturgis describes what they do in the office. Received a request from Ship Island for supplies, and Sturgis went aboard the 
+                        <title render="italic">Hartford</title> to see Admiral Faragut (sic. Farragut) for approval of the request. Sturgis describes sitting and drinking with the admiral, and his own impressions. Upon his return to the office, Stugis sees a lady with a counterfeit five dollar bill.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref98" level="file">
+                <did>
+                    <unittitle>Letter to Captain Russell Sturgis, Ordinance Office, New Orleans, LA.</unittitle>
+                    <container id="cid3676007" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid3676007" type="Folder">45</container>
+                    <unitdate>1863 February 6</unitdate>
+                <dao entityref="xt78sf2m7c9x_45_1"/></did>
+                <scopecontent id="ref100">
+                    <head>Scope and Contents note</head>
+                    <p>To Father. Received a letter from the Adjunct saying that the regiment is encamped two miles from where Sturgis left them on the road, and expecting an attack from the rebels. Arrested a group of young rebels and took action against confederate sympathizers. Lost the 
+                        <title render="italic">Sparkling Sea</title> on the shores of Florida, and have fortified the city as a result.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref101" level="file">
+                <did>
+                    <unittitle>Letter to Margaret Sturgis, Ordinance Office, New Orleans, LA.</unittitle>
+                    <container id="cid3676008" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid3676008" type="Folder">46</container>
+                    <unitdate>1863 February 12</unitdate>
+                <dao entityref="xt78sf2m7c9x_46_1"/></did>
+                <scopecontent id="ref102">
+                    <head>Scope and Contents note</head>
+                    <p>To Mother. Sturgis describes the discouraging news they received from the North. Burnside may have resigned, Porter was dismissed, and Sumner and Franklin were removed from the army. Sturgis discusses the government's current state of affairs, and his own predictions of what will happen politically and who should be placed where. General Emery is on an expedition, and General Weitzel was last heard to be going through Berwick Bay on the way to Donaldsville. A siege train is being armed, and Sturgis describes the cargo it is taking. The men Sturgis lives with had a stag party at the house and he describes what they did.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref103" level="file">
+                <did>
+                    <unittitle>Letter to Margaret Sturgis, Ordinance Office, New Orleans, LA.</unittitle>
+                    <container id="cid3676009" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid3676009" type="Folder">47</container>
+                    <unitdate>1863 February 20</unitdate>
+                <dao entityref="xt78sf2m7c9x_47_1"/></did>
+                <scopecontent id="ref104">
+                    <head>Scope and Contents note</head>
+                    <p>To Mother. Sturgis describes mail and mail travel and the return of General Emery’s expedition. There is discord in the city from the lack of discipline on the part of General Banks, and had difficulty keeping the rebel citizens in line during a prisoner exchange at the levee. Sturgis writes about his opinions of slaves and 
+                        <emph render="doublequote">darkeys</emph>, the treatment of black officers and the hard feelings between them and the white officers. The rebels attempted another bombing, this time in the navy, but failed.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref105" level="file">
+                <did>
+                    <unittitle>Letter to Captain Russell Sturgis, Ordinance Office, New Orleans, LA.</unittitle>
+                    <container id="cid3676010" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid3676010" type="Folder">48</container>
+                    <unitdate>1863 February 26</unitdate>
+                <dao entityref="xt78sf2m7c9x_48_1"/></did>
+                <scopecontent id="ref106">
+                    <head>Scope and Contents note</head>
+                    <p>To Father. Mail steamer 
+                        <title render="italic">Ella Warley</title> was lost, but the 
+                        <title render="italic">Roanoke</title> arrived. Sturgis tells his father why he will not accept an oppointment to supervise a black officer regiment, and explains his reasoning. Gives an account of the Billinghurst and Regina Gunn, it's ability to fire 25 rounds 16 times per minute, and what they will do when they receive the gun. Lieutenant Mumford was assigned demonstrate the gun a trial. The Captain of the 
+                        <title render="italic">Laurel Hill</title> played a prank on the rebels who were crowded on the ship and Sturgis describes what happened.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref107" level="file">
+                <did>
+                    <unittitle>Letter to Margaret Sturgis, Ordinance Office, New Orleans, LA.</unittitle>
+                    <container id="cid3676011" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid3676011" type="Folder">49</container>
+                    <unitdate>1863 March 3-4</unitdate>
+                    <physdesc id="ref115" label="General Physical Description note">The first and last pages of the letter are covered in mylar sleeves due to poor condition and some disintegration.</physdesc>
+                <dao entityref="xt78sf2m7c9x_49_1"/></did>
+                <scopecontent id="ref108">
+                    <head>Scope and Contents note</head>
+                    <p>To Mother. Sturgis writes about his work, the dealings he has with other officers, and the levee of ordinance officers from all over came to the department. Orders from General Banks for the 18th N.Y. Batt. to leave for Baton Rouge, along with two others. Sturgis does not think the Union will be able to hold Baton Rouge, the rebels having captured two of the union's best gunboats: 
+                        <title render="italic">Queen of the West</title> and 
+                        <title render="italic">Indianola</title>. The rebels have four or five ironclads which could drive out the fleet at Port Hudson. Sturgis discusses battle scenarios, soldiers, and describes the contents of a package received, comparing what those items would cost in New Orleans.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref109" level="file">
+                <did>
+                    <unittitle>Letter to Margaret Sturgis, Ordinance Office, New Orleans, LA.</unittitle>
+                    <container id="cid3676012" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid3676012" type="Folder">50</container>
+                    <unitdate>1863 March 7</unitdate>
+                <dao entityref="xt78sf2m7c9x_50_1"/></did>
+                <scopecontent id="ref110">
+                    <head>Scope and Contents note</head>
+                    <p>To Mother. Sturgis thinks this will be his farewell letter from New Orleans. The Union is planning to lay siege to Fort Hudson, and General Grover was in the city to consult with General Banks, General Sherman, and General Emery. Sturgis discusses the possibilities of battle, and various outcomes that may occur. Plans on leaving by boat on Tuesday or Thursday.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref111" level="file">
+                <did>
+                    <unittitle>Letter to Margaret Sturgis, between Port Hudson and Baton Rogue, LA.</unittitle>
+                    <container id="cid3676013" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid3676013" type="Folder">51</container>
+                    <unitdate>1863 March 14</unitdate>
+                <dao entityref="xt78sf2m7c9x_51_1"/></did>
+                <scopecontent id="ref112">
+                    <head>Scope and Contents note</head>
+                    <p>To Mother. The army is advancing to draw the fire from the field battalions, and to distract the rebels. Sturgis is with a section of the 18th Batt. They were ordered to hold their place as long as possible, and then retreat to town.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref113" level="file">
+                <did>
+                    <unittitle>Letter to Margaret Sturgis, Ordinance Office, New Orleans, LA.</unittitle>
+                    <container id="cid3676014" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid3676014" type="Folder">52</container>
+                    <unitdate>1863 March 19</unitdate>
+                    <physdesc id="ref117" label="General Physical Description note">The first page and the last two pages of the letter are covered in mylar sleeves due to poor condition and some disintegration.</physdesc>
+                <dao entityref="xt78sf2m7c9x_52_1"/></did>
+                <scopecontent id="ref118">
+                    <head>Scope and Contents note</head>
+                    <p>To Mother. Sturgis has returned from Baton Rouge, and responds to his mother’s inquiry about the shooting of General Banks. Describes army movements and strategies concerning the 41st Massachusetts, 173rd and 175th New York, 18th N.Y. Batt., 12th Massachusetts, 21st Indiana siege train, and 3rd Louisiana. Helped perform a review and inspection of troops, and describes the landscape he saw while out riding. Sturgis acted as Chief Commissioner during review of the 18th Battalion, and was later fired upon by rebels after discovering pickets. Provides illustrated map of the roads he travelled on. Sturgis witnesses rebels using lights in their houses to send signals to one another, and describes altercation he had in one particular house. Receives letter from Lt. Hill to return and learns that the 
+                        <title render="italic">Mississippi</title> was destroyed.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref119" level="file">
+                <did>
+                    <unittitle>Letter to Margaret Sturgis, New Orleans, LA.</unittitle>
+                    <container id="cid3676015" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid3676015" type="Folder">53</container>
+                    <unitdate>1863 April 3</unitdate>
+                <dao entityref="xt78sf2m7c9x_53_1"/></did>
+                <scopecontent id="ref120">
+                    <head>Scope and Contents note</head>
+                    <p>To Mother. Sturgis writes that he has been very ill with 
+                        <emph render="doublequote">acclimating fever</emph>.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref121" level="file">
+                <did>
+                    <unittitle>Letter to Margaret Sturgis, Ordinance Office, New Orleans, LA.</unittitle>
+                    <container id="cid3676016" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid3676016" type="Folder">54</container>
+                    <unitdate>1863 April 8</unitdate>
+                <dao entityref="xt78sf2m7c9x_54_1"/></did>
+                <scopecontent id="ref122">
+                    <head>Scope and Contents note</head>
+                    <p>To Mother. Sturgis describes the recovery from his illness, the doctors he saw, and the treatments he received. Met the Assistant Surgeon USQ and Assistant Chief Medical Director. The army has been away from Baton Rouge, General Banks has taken to the field again, and the Union lost another gunboat.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref123" level="file">
+                <did>
+                    <unittitle>Letter to Captain Russell Sturgis, New Orleans, LA.</unittitle>
+                    <container id="cid3676017" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid3676017" type="Folder">55</container>
+                    <unitdate>1863 April 13</unitdate>
+                <dao entityref="xt78sf2m7c9x_55_1"/></did>
+                <scopecontent id="ref124">
+                    <head>Scope and Contents note</head>
+                    <p>To Father. Sturgis writes about his endeavor to gain a charter with Colonel Shipley, and describes the comings and goings of the ships in New Orleans. Hopes to keep the 
+                        <title render="italic">Thames</title> employed by the Navy and has been looking for housing for the 
+                        <title render="italic">Achilles</title> to do work. Gives details of what they might be able to do with the 
+                        <title render="italic">Achilles</title>.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref125" level="file">
+                <did>
+                    <unittitle>Letter to Margaret Sturgis, New Orleans, LA.</unittitle>
+                    <container id="cid3676018" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid3676018" type="Folder">56</container>
+                    <unitdate>1863 April 15</unitdate>
+                <dao entityref="xt78sf2m7c9x_56_1"/></did>
+                <scopecontent id="ref127">
+                    <head>Scope and Contents note</head>
+                    <p>To Mother. The top of the first page has a drawing with hands pointing at the word 
+                        <emph render="doublequote">Private</emph>. Sturgis has taken a holiday from the office due to a relapse with his illness, and is receiving a tonic of port wine, wild cherry bark, and some other substance. Requests that his mother to send him port wine and sherry for medicine. He also describes using homeopathy prescribed by Mrs. Russell, and a 
+                        <emph render="doublequote">staphysagria</emph> medicine. Mentions the 
+                        <title render="italic">Thames</title> had an accident.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref128" level="file">
+                <did>
+                    <unittitle>Letter to Margaret Sturgis, New Orleans, LA.</unittitle>
+                    <container id="cid3676019" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid3676019" type="Folder">57</container>
+                    <unitdate>1863 April 21-22</unitdate>
+                <dao entityref="xt78sf2m7c9x_57_1"/></did>
+                <scopecontent id="ref129">
+                    <head>Scope and Contents note</head>
+                    <p>To Mother. April 21: The words 
+                        <emph render="doublequote">Read to yourself</emph> are written at the top of the letter. Sturgis writes that he has a fever, and mentions the current treatments he is taking. Lieutenant Mumford and Sturgis purchased a case of wine from a merchant, and Sturgis lists types of wine he currently has and how he uses them for his illness. April 22: Sturgis describes how General Banks has almost succeeded in cutting the rebel line of supplies, and is currently heading towards Alexandria on the Red River. General Banks may starve out Port Hudson and Vicksburg in 4 months. General Sherman was ordered to sieze all private horse equipment, and is currently sending it to the depot's storehouses in New Orleans.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref130" level="file">
+                <did>
+                    <unittitle>Letter to Captain Russell Sturgis, New Orleans, LA.</unittitle>
+                    <container id="cid3676020" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid3676020" type="Folder">58</container>
+                    <unitdate>1863 April 24</unitdate>
+                <dao entityref="xt78sf2m7c9x_58_1"/></did>
+                <scopecontent id="ref131">
+                    <head>Scope and Contents note</head>
+                    <p>To Father. Sturgis has made several inquiries about towing business in New Orleans, and explains how it is different there than it is in New York. One line of boats belongs to Stanton and Co., a rebel company. Discusses quality of other boats, their rates for towing, and official dealings of the ships. Unable to find safe housing for the 
+                        <title render="italic">Achilles</title> and suggests to his father to consider selling it. Mentions General Banks and the rebels, and how they were expecting an attack that never came.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref132" level="file">
+                <did>
+                    <unittitle>Letter to Margaret Sturgis, New Orleans, LA.</unittitle>
+                    <container id="cid3676021" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid3676021" type="Folder">59</container>
+                    <unitdate>1863 April 28-29</unitdate>
+                <dao entityref="xt78sf2m7c9x_59_1"/></did>
+                <scopecontent id="ref133">
+                    <head>Scope and Contents note</head>
+                    <p>To Mother. April 28: The illness prevented Sturgis from going with Banks on an expedition. 
+                        <title render="italic">Queen of the West</title> was blown up when the gunboat 
+                        <title render="italic">Calhoun</title> fired upon it. Captain Shunk returned to the office, and Lieutenant Hill has gone to take the captain’s place. Sturgis changed rooms in the boarding house and provides an illustration of the layout of the new room. April 29: Sturgis asks his mother to remember him to Miss Gardener from 
+                        <title render="italic">Elm City</title>, gives details about clothes, and asks for a steel collar.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref134" level="file">
+                <did>
+                    <unittitle>Letter to Margaret Sturgis, Ordinance Office, New Orleans, LA.</unittitle>
+                    <container id="cid3676022" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid3676022" type="Folder">60</container>
+                    <unitdate>1863 April 29</unitdate>
+                <dao entityref="xt78sf2m7c9x_60_1"/></did>
+                <scopecontent id="ref135">
+                    <head>Scope and Contents note</head>
+                    <p>To Mother. The word 
+                        <emph render="doublequote">Private</emph> is written at the top of the letter. Sturgis responds to his mother’s inquiries for him to come home, and does not think it right to go home while the war is still going on. Older brother Russell just settled into business, and brother Ed is still too young, so Sturgis feels this is his duty. Discusses possibility of yellow fever in summer. The rebels are evacuating Port Hudson, and Banks may move his army across Baton Rouge to follow them.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref136" level="file">
+                <did>
+                    <unittitle>Letter to Margaret Sturgis, Ordinance Office, New Orleans, LA.</unittitle>
+                    <container id="cid3681001" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid3681001" type="Folder">61</container>
+                    <unitdate>1863 May 5-15</unitdate>
+                <dao entityref="xt78sf2m7c9x_61_1"/></did>
+                <scopecontent id="ref137">
+                    <head>Scope and Contents note</head>
+                    <p>To Mother. May 5: Sturgis was promoted to Chief temporarily. Writes about the slowness of the mail, and the lack of steamers. General Grant is sending about 2000 men, and General Hunter will send 5000, along with several ironclads. Lieutenant Mumford resigned and went home. Sturgis met a Mrs. Richards, friend of Miss Betsy Sturgis. Asks for mother to send Harpers Weekly. May 15: Sturgis expresses his desire to fight in the army on the Potomac when General McClullen returns and tells his mother to remember him on June 2nd for his 21st birthday.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref138" level="file">
+                <did>
+                    <unittitle>Letter to Margaret Sturgis, Ordinance Office, New Orleans, LA.</unittitle>
+                    <container id="cid3681002" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid3681002" type="Folder">62</container>
+                    <unitdate>1863 May 20</unitdate>
+                <dao entityref="xt78sf2m7c9x_62_1"/></did>
+                <scopecontent id="ref139">
+                    <head>Scope and Contents note</head>
+                    <p>To Mother. The office has been slow, and Sturgis writes that he has been bored. Sturgis thinks Port Hudson will likely fall within the week. General Banks has been crossing a force towards Bayou Lara, while General Anges will advance from Baton Rouge, and General Grant is within 50 miles of the city. Relays news that there are 1000 rebels at Port Hudson and the railroad line was cut from Clinton. Sturgis expresses concern that New Orleans has less than 5000 troops in the city, since most have been sent to battle.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref140" level="file">
+                <did>
+                    <unittitle>Letter to Margaret Sturgis, 19th Army Corps, New Orleans, LA.</unittitle>
+                    <container id="cid3681003" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid3681003" type="Folder">63</container>
+                    <unitdate>1863 May 26</unitdate>
+                <dao entityref="xt78sf2m7c9x_63_1"/></did>
+                <scopecontent id="ref141">
+                    <head>Scope and Contents note</head>
+                    <p>To Mother. Captain Shunk went to Brasheirs, leaving Sturgis in charge. He received a package from home, with what the southerners call 
+                        <emph>Yankee Sugas</emph>, clothes, socks, and a steel collar, which Sturgis describes in detail. Visited Mrs. Russell and gave her a pistol. Lack of news from Port Hudson, and thinks the road to Vicksburg will open up by June 1st. General Banks is at Baton Rouge but doesn’t have enough men to hold it. Colonel Chickering and his force were attacked and pushed back to Franklin.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref142" level="file">
+                <did>
+                    <unittitle>Letter to Margaret Sturgis, aboard the 
+                        <title render="italic">Besbille</title>, travelling towards Port Hudson, LA.</unittitle>
+                    <container id="cid3681004" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid3681004" type="Folder">64</container>
+                    <unitdate>1863 May 30</unitdate>
+                <dao entityref="xt78sf2m7c9x_64_1"/></did>
+                <scopecontent id="ref143">
+                    <head>Scope and Contents note</head>
+                    <p>To Mother. Sturgis asks for his mother to let Mrs. Balatine know he will be going to the front. Sturgis is on the way to Port Hudson, and only given 20 minutes to pack. He will go to Springfield Landing and from there on to the front.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref144" level="file">
+                <did>
+                    <unittitle>Letter to Margaret Sturgis, on the battle front, Port Hudson, LA.</unittitle>
+                    <container id="cid3681005" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid3681005" type="Folder">65</container>
+                    <unitdate>1863 June 8</unitdate>
+                    <physdesc id="ref160" label="General Physical Description note">Letter is covered in a mylar sleeve due to poor condition and some disintegration.</physdesc>
+                <dao entityref="xt78sf2m7c9x_65_1"/></did>
+                <scopecontent id="ref145">
+                    <head>Scope and Contents note</head>
+                    <p>To Mother. Sturgis was assigned as acting aid to General H.E. Pain, and has been with him nearly a week, and just returned that morning from an expedition to Clinton, trying to catch rebels who drove Colonel Greisson into an ambush. He describes the expedition, the loss of 200 men to sunstroke, and the burning of Clinton. They have been under sharpshooter fire several times while carrying out orders, and a ball broke one of the spurs on his new horse.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref146" level="file">
+                <did>
+                    <unittitle>Letter to Margaret Sturgis, 3rd Division of the 19th Army Corps, Port Hudson, LA.</unittitle>
+                    <container id="cid3681006" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid3681006" type="Folder">66</container>
+                    <unitdate>1863 June 15</unitdate>
+                <dao entityref="xt78sf2m7c9x_66_1"/></did>
+                <scopecontent id="ref147">
+                    <head>Scope and Contents note</head>
+                    <p>To Mother. Sturgis is in a hospital bed in the tent of Captain Porter, Chief Q.M. to the division. He was shot in the right leg the day before during a battle he fought in along with General Pain’s division. General Pain and Lt. Pearce fell as well. Sturgis gives details about his injury and the battle. Believes he will be sent down to New Orleans in a few days. Describes the current battle going on, how they are being attacked in the rear by 4000, General Weitzel's march out into battle, and the truce that was refused by General Gardener.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref148" level="file">
+                <did>
+                    <unittitle>Letter to Captain Russell Sturgis, Officer's Hospital, Baton Rogue, LA.</unittitle>
+                    <container id="cid3681007" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid3681007" type="Folder">67</container>
+                    <unitdate>1863 June 25</unitdate>
+                <dao entityref="xt78sf2m7c9x_67_1"/></did>
+                <scopecontent id="ref149">
+                    <head>Scope and Contents note</head>
+                    <p>To Father. Sturgis describes his current health, the battle at Port Hudson, and the loss of troops. His division lost 823 men. Plans to stay with Mrs. Ropers as soon as possible and will return home from there. Writes about expenses he has accrued and asks for help to pay them.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref150" level="file">
+                <did>
+                    <unittitle>Letter to Margaret Sturgis, Officer's Hospital, Baton Rogue, LA</unittitle>
+                    <container id="cid3681008" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid3681008" type="Folder">68</container>
+                    <unitdate>1863 June 27-29</unitdate>
+                <dao entityref="xt78sf2m7c9x_68_1"/></did>
+                <scopecontent id="ref151">
+                    <head>Scope and Contents note</head>
+                    <p>To Mother. Describes the appearance of the Hotel de Fonlie; what other patients are like; daily routine and life in the ward; and the continued fighting at Port Hudson. Gives his opinions about General Banks and the war, General Sherman’s protest, and the many failing of the siege attempt. Provides a detailed account of what he was doing after leaving New Orleans; his time on the front; the battle; meeting General Paine and his staff; his injury; and being pulled off the field by men from the 38th Massachusetts.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref152" level="file">
+                <did>
+                    <unittitle>Letter to Margaret Sturgis, New Orleans, LA.</unittitle>
+                    <container id="cid3681009" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid3681009" type="Folder">69</container>
+                    <unitdate>1863 July 6</unitdate>
+                <dao entityref="xt78sf2m7c9x_69_1"/></did>
+                <scopecontent id="ref153">
+                    <head>Scope and Contents note</head>
+                    <p>To Mother. Sturgis thinks he looks like a mummy, and describes the 
+                        <emph render="doublequote">ice treatments</emph> to his leg, the kinds of meals they serve, and how he is being cared for. He was visited by the District Attorney, Mr. Whaples, along with his wife. Gives details of his journey on the steamer that brought him to New Orleans. During the passage Sturgis saw the aftermath of the battle at Donaldsville. He discusses possible strategies the Confederates might use to take New Orleans and what kind of response strategy the Union would have.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref154" level="file">
+                <did>
+                    <unittitle>Letter to Captain Russell Sturgis, New Orleans, LA.</unittitle>
+                    <container id="cid3681010" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid3681010" type="Folder">70</container>
+                    <unitdate>1863 July 7</unitdate>
+                <dao entityref="xt78sf2m7c9x_70_1"/></did>
+                <scopecontent id="ref155">
+                    <head>Scope and Contents note</head>
+                    <p>To Father. Sturgis responds to his father about business matters, his impending passage home, medical treatments he is taking, and describes how he is being cared for.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref156" level="file">
+                <did>
+                    <unittitle>Letter to Margaret Sturgis, New Orleans, LA.</unittitle>
+                    <container id="cid3681011" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid3681011" type="Folder">71</container>
+                    <unitdate>1863 July 14</unitdate>
+                <dao entityref="xt78sf2m7c9x_71_1"/></did>
+                <scopecontent id="ref157">
+                    <head>Scope and Contents note</head>
+                    <p>To Mother. Sturgis intends to leave on the steamer 
+                        <title render="italic">Columbia</title> between the 19th and 21st of July and thinks he will reach New York by the 28th of July. Describes the doctor’s opinion on his health for travel, settling debts, and things he must do to prepare for his departure. General Sherman is to travel north on the 
+                        <title render="italic">Columbia</title> with Sturgis, since the general was badly injured in battle. Sturgis describes visits with different generals and officers to obtain a pass to leave.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref158" level="file">
+                <did>
+                    <unittitle>General Release: Appleton Sturgis, Russell Sturgis, and Albert M. Da Costa</unittitle>
+                    <container id="cid3681012" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid3681012" type="Folder">72</container>
+                    <unitdate>1874 May 9</unitdate>
+                    <physdesc id="ref161" label="General Physical Description note">Document is covered in a mylar sleeve due to poor condition and some disintegration.</physdesc>
+                <dao entityref="xt78sf2m7c9x_72_1"/></did>
+                <scopecontent id="ref159">
+                    <head>Scope and Contents note</head>
+                    <p>Official document regarding Appleton Sturgis, on behalf of Russell Sturgis, and Albert M. Da Costa, for money paid in the amount of $643.10 from Sturgis to Da Costa, absolving Sturgis of any claim made by Da Costa concerning commission owed him for steamship 
+                        <title render="italic">Teazer</title>. Witnesses are Da Costa and John Cropper, Notary Public.</p>
+                </scopecontent>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

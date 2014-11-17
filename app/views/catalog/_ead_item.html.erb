@@ -1,0 +1,21 @@
+<div class="ead-component">
+  <a name="<%= item['id'] %>"></a>
+  <h4><strong><%= item['title'] %>, <%= item['unitdate'] %></strong></h4>
+  <%= item['container_list'] %>
+  <% if item['dao'] -%>
+    <%= link_to I18n.t('exploreuk.ead.inventory.browse'), catalog_path(item['dao']) %>
+  <% end -%>
+  <% if item['scopecontent'] -%>
+    <h5><strong><%= I18n.t('exploreuk.ead.inventory.scopecontent') %>:</strong></h5>
+    <% item['scopecontent'].each do |note| %>
+      <p><%= note.content %></p>
+    <% end %>
+  <% end -%>
+  <% if item['subitems'] -%>
+    <ul class="ead-subcomponent">
+      <% item['subitems'].each do |subitem| %>
+        <li><%= render 'ead_item', :item => subitem %></li>
+      <% end %>
+    </ul>
+  <% end %>
+</div>

@@ -1,0 +1,17 @@
+<% if should_render_ead? document -%>
+<div class="panel panel-default ead-toc">
+  <div class="panel-heading">
+    <%= I18n.t('exploreuk.ead.toc.title') %>
+  </div>
+  <div class="panel-body">
+    <ul class="nav">
+      <% ead_header_fields(document).each do |field| -%>
+        <li class="blacklight-<%= ead_header_label(document, field).parameterize %>">
+          <%= link_to ead_header_label(document, field), "##{ead_header_anchor(document, field)}" %>
+        </li>
+      <% end -%>
+      <%= render 'ead_toc_collection_inventory', :document => document %>
+    </ul>
+  </div>
+</div>
+<% end -%>

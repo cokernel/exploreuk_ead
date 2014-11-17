@@ -1,0 +1,8 @@
+<h2><a name="collection-inventory"></a><%= I18n.t('exploreuk.ead.toc.collection_inventory') %></h2>
+<ul>
+  <% ead_toc_items(document).each do |item| -%>
+    <li>
+      <%= render 'ead_item', :item => item %>
+    </li>
+  <% end -%>
+</ul>

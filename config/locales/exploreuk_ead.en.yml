@@ -1,0 +1,26 @@
+en:
+  exploreuk:
+    ead:
+      guide: 'Guide'
+      toc:
+        title: 'Table of contents'
+        collection_inventory: 'Collection inventory'
+      header:
+        author: 'Author'
+        title: 'Title'
+        date: 'Date'
+        arrangement: 'Arrangement'
+        location_note: 'Location note'
+        accessrestrict: 'Conditions Governing Access note'
+        prefercite: 'Preferred Citation note'
+        extent: 'Extent'
+        creator: 'Creator'
+        abstract: 'Abstract'
+        bioghist: 'Biography/History'
+        scopecontent: 'Scope and Content'
+        subjects: 'Subjects'
+        userestrict: 'Use Restrictions'
+        related_material: 'Related Material'
+      inventory:
+        browse: 'browse'
+        scopecontent: 'Scope and Content Note'

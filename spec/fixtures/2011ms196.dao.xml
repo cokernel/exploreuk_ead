@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid>2011MS197</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Cassius M. Clay note, 1897
+                    <num>2011MS197</num>
+                </titleproper>
+                <author>Finding aid prepared by Megan Mummey</author>
+            </titlestmt>
+            <publicationstmt>
+                <p>
+                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://kdl.kyvl.org/images/seals/ukseal.gif"/>
+                </p>
+                <publisher>University of Kentucky Special Collections</publisher>
+                <address>
+                    <addressline>Special Collections</addressline>
+                    <addressline>Margaret I. King Building, North</addressline>
+                    <addressline>Lexington, KY, 40506-0039</addressline>
+                    <addressline>(859) 257-8611</addressline>
+                    <addressline>SCLREF@LSV.UKY.EDU</addressline>
+                </address>
+                <date>2011 December 15</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2012-03-21T13:47-0400</date>
+            </creation>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Cassius M. Clay note</unittitle>
+            <unitid>2011MS197</unitid>
+            <repository>
+                <corpname>University of Kentucky Special Collections</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1878004" type="Box" label="Mixed materials">1</container>
+            <container parent="cid1878004" type="Folder">1</container>
+            <physdesc>
+                <extent>0.1 Cubic feet</extent>
+                <extent>1 box</extent>
+            </physdesc>
+            <unitdate>1897</unitdate>
+            <physloc id="ref4" label="Location note">Housed with multiple collections.</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf">Clay, Cassius Marcellus, 1810-1903 </persname>
+            </origination>
+        </did>
+        <scopecontent id="ref1">
+            <head>Scope and Contents note</head>
+            <p>The collection consists of a philosophical note concerning the importance of family written by Cassius M. Clay.</p>
+        </scopecontent>
+        <bioghist id="ref2">
+            <head>Biographical note</head>
+            <p>Cassius Marcellus Clay was born in 1810 in Madison County, Kentucky. He was the son of Green Clay, a Revolutionary War general, and a nephew of Henry Clay. Clay attended Yale University and was anti-slavery, although he advocated gradual emancipation. In 1845, Clay began the 
+                <title render="italic">True American</title> an anti-slavery paper, and later followed this with another anti-slavery paper 
+                <title render="italic">The Examiner</title>. Clay served in the Kentucky Legislature from 1835-1840. Clay was minister to Russia twice, and as minister he performed the same basic duties as an ambassador. His terms in Russia were from 1861-1862 and 1863-1869. During the period of his recall, 1862-1863, Clay served as a Union Major General in the Civil War. Clay's serving as minister to Russia continued to strengthen the ties between these two nations. This led to the U.S. supporting Russia in the Crimean War (1853-1856) and Russia supporting the Union in the American Civil War (1861-1865). During Clay's first term as minister, roughly 1861-1862, he brought his wife and his knife collection, and seemed to fit in well with the Russian upper class. Clay retired to his estate, White Hall, where he wrote his autobiography, 
+                <title render="italic">The Life of Cassius Marcellus Clay: Memoirs, Writings, and Speeches</title>. He died on July 22, 1903.</p>
+        </bioghist>
+        <arrangement id="ref3">
+            <head>Arrangement note</head>
+            <p>Collection is arranged by format.</p>
+        </arrangement>
+        <userestrict id="ref5">
+            <head>Conditions Governing Use note</head>
+            <p>The physical rights to the materials in this collection are held by the University of Kentucky Special Collections.</p>
+        </userestrict>
+        <accessrestrict id="ref6">
+            <head>Conditions Governing Access note</head>
+            <p>Collection is open to researchers by appointment.</p>
+        </accessrestrict>
+        <prefercite id="ref7">
+            <head>Preferred Citation note</head>
+            <p>2011MS197: [identification of item], Cassius M. Clay note, 1897, University of Kentucky Special Collections.</p>
+        </prefercite>
+        <controlaccess>
+            <persname rules="aacr" source="local" role="Bookseller (bsl)">Heflin, John L., Jr.</persname>
+            <genreform source="lcsh">Notes.</genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

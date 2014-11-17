@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid>pa50w2</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Samuel M. Wilson Presbyterian Church Photographic Collection, ca. 1903-1933
+                    <num>PA50W2</num>
+                </titleproper>
+                <titleproper type="filing">Wilson, Samuel M. Presbyterian Church Photographic Collection</titleproper>
+                <author>Finding aid prepared by April Thompson, Evelyn McGill, James Bilan; machine-readable finding aid created by: Jason Flahardy</author>
+            </titlestmt>
+            <publicationstmt>
+                <p>
+                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://kdl.kyvl.org/images/seals/ukseal.gif"/>
+                </p>
+                <publisher>University of Kentucky Special Collections</publisher>
+                <address>
+                    <addressline>Special Collections</addressline>
+                    <addressline>Margaret I. King Building, North</addressline>
+                    <addressline>Lexington, KY, 40506-0039</addressline>
+                    <addressline>(859) 257-8611</addressline>
+                    <addressline>SCLREF@LSV.UKY.EDU</addressline>
+                </address>
+                <date>2010 January</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2014-07-25T17:53-0400</date>
+            </creation>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Samuel M. Wilson Presbyterian Church Photographic Collection</unittitle>
+            <unitid>PA50W2</unitid>
+            <repository>
+                <corpname>University of Kentucky Special Collections</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>0.25 Cubic feet</extent>
+                <extent>1 box: 19 images</extent>
+            </physdesc>
+            <unitdate>ca. 1903-1933</unitdate>
+            <abstract id="ref71" label="Abstract">The Samuel M. Wilson Presbyterian Church Photographic Collection (.25 cubic feet, 19 images in 1 box; dated ca. 1903-1933) consists of nineteen black and white silver prints of various Presbyterian churches and the Synodial Presbyterian Orphanage in Anchorage, Kentucky.</abstract>
+        </did>
+        <accessrestrict id="ref3">
+            <head>Conditions Governing Access note</head>
+            <p>The collection is open to researchers by appointment.</p>
+        </accessrestrict>
+        <bioghist id="ref6">
+            <head>Biographical Note</head>
+            <p>Judge Samuel Mackay Wilson (1871-1946) was a Lexington attorney and author, noted for his meticulous scholarship and precise writing style. He was also a collector of books, manuscripts, maps, and photographs. Wilson's main area of interest was early Kentucky history.</p>
+            <p>Wilson's most famous case was his defense of Kentucky Secretary of State Caleb Powers. Powers was charged in connection with the assassination of Kentucky Governor William Goebel in 1899. After serving as a judge-advocate during World War I, Wilson returned to Kentucky, where he established a successful law practice.</p>
+            <p>Judge Wilson served on numerous civic commissions, where he was active in historical preservation. Wilson played an important role in the preservation of the Henry Clay Estate, Blue Licks Battlefield, and Fort Boonesboro.</p>
+            <p>Wilson organized the Cakes and Ale Club, an annual gathering of Lexingtonians interested in book collecting. He was also a member of the Book Thieves, an organization of local historians and educators who were influential in the creation and development of Special Collections and Archives at the University of Kentucky.</p>
+            <p>After Wilson's death in 1946, his extensive collection of books, photographs, and personal papers were donated to the University of Kentucky. The Wilson Collection is the foundation on which Special Collections and Archives has been built. Following Mrs. Wilson's death in 1959, the items which she had retained were added to the collection.</p>
+        </bioghist>
+        <scopecontent id="ref7">
+            <head>Scope and Contents note</head>
+            <p>The Samuel M. Wilson Presbyterian Church Photographic Collection (.25 cubic feet, 19 images in 1 box; dated ca. 1903-1933) consists of nineteen black and white silver prints of various Presbyterian churches and the Synodial Presbyterian Orphanage (Bellewood Presbyterian Home for Children) in Anchorage, Kentucky.</p>
+        </scopecontent>
+        <relatedmaterial id="ref8">
+            <head>Related Archival Materials note</head>
+            <p>Bull, Jacqueline. 
+                <title render="italic">The Samuel M. Wilson Library</title>. Perry Publishing Co.: Frankfort, KY.</p>
+            <p>Clark, Thomas D. 
+                <title render="doublequote">The Book Thieves of Lexington: A Reminiscence.</title>
+                <title render="italic">The Kentucky Review</title>. v.2 (Winter 1984): 27-45.</p>
+            <p>PA50W2: Samuel M. Wilson: Presbyterian Church Photographic Collection, ca. 1880-1940, University of Kentucky Special Collections.</p>
+            <p>50W38: Samuel M. Wilson Papers, 1792-1945, University of Kentucky Special Collections.</p>
+            <p>PA51W13: Samuel M. Wilson: Kentucky Sesquicentennial Photographic Collection, 1942, University of Kentucky Special Collections.</p>
+            <p>51W20: Samuel M. Wilson: World War I papers, 1916-1941, University of Kentucky Special Collections.</p>
+            <p>51W54: M. Wilson Library Records, 1900-1946, University of Kentucky Special Collections.</p>
+            <p>61W12: Samuel M. Wilson Clippings, 1895-1946, University of Kentucky Special Collections.</p>
+            <p>PA62W8: Samuel M. Wilson: Picture Collection, ca. 1840-1959,University of Kentucky Special Collections.</p>
+            <p>PA73W4: Samuel M. Wilson: Burt and Brabb Lumber Company Photographic Collection, ca. 1900, University of Kentucky Special Collections.</p>
+            <p>51W19: Samuel Ramsey Wilson Papers, 1835-1885, University of Kentucky Special Collections.</p>
+            <p>49W1: Samuel M. Wilson Collection on Kentucky, 1715-1936, University of Kentucky Special Collections.</p>
+        </relatedmaterial>
+        <userestrict id="ref69">
+            <head>Conditions Governing Use note</head>
+            <p>Property rights reside with the University of Kentucky. The University of Kentucky holds the copyright for materials created in the course of business by University of Kentucky employees. Copyright for all other materials has not been assigned to the University of Kentucky. For information about permission to reproduce or publish, please contact Special Collections.</p>
+        </userestrict>
+        <prefercite id="ref70">
+            <head>Preferred Citation note</head>
+            <p>PA50W2 : [identification of item], Samuel M. Wilson Presbyterian Church Photographic Collection, ca. 1903-1933, University of Kentucky Special Collections.</p>
+        </prefercite>
+        <acqinfo id="ref72">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Gift</p>
+        </acqinfo>
+        <controlaccess>
+            <corpname rules="aacr" source="local">Synodial Presbyterian Orphanage (Anchorage, Ky.).</corpname>
+            <persname rules="aacr" source="naf">Wilson, Samuel M. (Samuel Mackay), 1871-1946</persname>
+            <genreform source="aat">black-and-white photographs</genreform>
+            <genreform source="aat">gelatin silver prints</genreform>
+            <geogname source="lcsh">Kentucky--Church history.</geogname>
+            <subject source="lcsh">Presbyterian Church--Kentucky.</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref9" level="series">
+                <did>
+                    <unittitle>Architecture</unittitle>
+                    <unitid>Series I. </unitid>
+                </did>
+                <c02 id="ref10" level="item">
+                    <did>
+                        <unittitle>"Side view of Union 'meeting house'"; graves on 3 sides of the church.</unittitle>
+                        <container id="cid387780" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid387780" type="Item">1</container>
+                        <unitdate>11/23/1933</unitdate>
+                    <dao entityref="xt7d251fkp3s_1_1"/></did>
+                    <odd id="ref11">
+                        <head>General note</head>
+                        <p>(2x3) b&amp;w print</p>
+                    </odd>
+                </c02>
+                <c02 id="ref13" level="item">
+                    <did>
+                        <unittitle>"Union 'meeting house'; about 1.5 miles west of Brumfield, KY (station on the L &amp; N Railroad in Boyle County) and about .25 miles south of Danville-Lebanon Pike. Dr. Thos. Cleland and Rev. Joshua Wilson ordrained where Oct.1804-See Page 87. Life of Dr. Thos. Cleland. 11/22/33"</unittitle>
+                        <container id="cid387778" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid387778" type="Item">2</container>
+                        <unitdate>11/22/1933</unitdate>
+                    <dao entityref="xt7d251fkp3s_2_1"/></did>
+                    <odd id="ref14">
+                        <head>General note</head>
+                        <p>(2x3) b&amp;w print</p>
+                    </odd>
+                </c02>
+                <c02 id="ref16" level="item">
+                    <did>
+                        <unittitle>"What remains of the house of Dr. Thos. Cleland and wife, Margaret Armstrong Cleland; known as 'School of the Prophets' on New Providence Cemetery Road. McAfee, Ky. House finished September, 1813. 11/23/1933"</unittitle>
+                        <container id="cid387776" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid387776" type="Item">3</container>
+                        <unitdate>11/23/1933</unitdate>
+                    <dao entityref="xt7d251fkp3s_3_1"/></did>
+                    <odd id="ref17">
+                        <head>General note</head>
+                        <p>(2x3) b&amp;w print</p>
+                    </odd>
+                </c02>
+                <c02 id="ref19" level="item">
+                    <did>
+                        <unittitle>"Hopewell Presbyterian Church" 1787</unittitle>
+                        <container id="cid387774" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid387774" type="Item">4</container>
+                        <unitdate>[n.d.]</unitdate>
+                    <dao entityref="xt7d251fkp3s_4_1"/></did>
+                    <odd id="ref20">
+                        <head>General note</head>
+                        <p>(5x7) b&amp;w print</p>
+                    </odd>
+                </c02>
+                <c02 id="ref22" level="item">
+                    <did>
+                        <unittitle>"Synodial Presbyterian Orphanage; Anchorage, KY. Doll house, Little girls; given by a Mr. Vanderbilt"</unittitle>
+                        <container id="cid387772" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid387772" type="Item">5</container>
+                        <unitdate>[n.d.]</unitdate>
+                    <dao entityref="xt7d251fkp3s_5_1"/></did>
+                    <odd id="ref23">
+                        <head>General note</head>
+                        <p>(3x4) b&amp;w print on cardboard backing</p>
+                    </odd>
+                </c02>
+                <c02 id="ref25" level="item">
+                    <did>
+                        <unittitle>At the Orphanage: "Laundry built of old brick from Bellewood School"</unittitle>
+                        <container id="cid387770" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid387770" type="Item">6</container>
+                        <unitdate>[n.d.]</unitdate>
+                    <dao entityref="xt7d251fkp3s_6_1"/></did>
+                    <odd id="ref26">
+                        <head>General note</head>
+                        <p>(3x4) b&amp;w print on cardboard backing</p>
+                    </odd>
+                </c02>
+                <c02 id="ref28" level="item">
+                    <did>
+                        <unittitle>At the Orphanage: "Supt. Robert G. Haney, House, part of old Bellewood School;" Man in front of house</unittitle>
+                        <container id="cid387768" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid387768" type="Item">7</container>
+                        <unitdate>[n.d.]</unitdate>
+                    <dao entityref="xt7d251fkp3s_7_1"/></did>
+                    <odd id="ref29">
+                        <head>General note</head>
+                        <p>(3x4) b&amp;w print on cardboard backing</p>
+                    </odd>
+                </c02>
+                <c02 id="ref31" level="item">
+                    <did>
+                        <unittitle>At the Orphanage: "House of Supt. Bevy of Girls, Corner of the Girls' Dormitory;" Young women in front of house, corner of dormitory in view.</unittitle>
+                        <container id="cid387766" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid387766" type="Item">8</container>
+                        <unitdate>[n.d.]</unitdate>
+                    <dao entityref="xt7d251fkp3s_8_1"/></did>
+                    <odd id="ref32">
+                        <head>General note</head>
+                        <p>(3x4) b&amp;w print on cardboard backing</p>
+                    </odd>
+                </c02>
+                <c02 id="ref34" level="item">
+                    <did>
+                        <unittitle>At the Orphanage: "Boys' Dormitory, Old Brick, Mrs. Watt; Matron"</unittitle>
+                        <container id="cid387764" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid387764" type="Item">9</container>
+                        <unitdate>[n.d.]</unitdate>
+                    <dao entityref="xt7d251fkp3s_9_1"/></did>
+                    <odd id="ref35">
+                        <head>General note</head>
+                        <p>(3x4) b&amp;w print on cardboard backing</p>
+                    </odd>
+                </c02>
+                <c02 id="ref37" level="item">
+                    <did>
+                        <unittitle>At the Orphanage: "Little Girls Dormitory, Main Building; Old Post Office; Kitchen; Dining Room, Cellar, Refrigerator." Children's slide on left.</unittitle>
+                        <container id="cid387762" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid387762" type="Item">10</container>
+                        <unitdate>[n.d.]</unitdate>
+                    <dao entityref="xt7d251fkp3s_10_1"/></did>
+                    <odd id="ref38">
+                        <head>General note</head>
+                        <p>(3x4) b&amp;w print on cardboard backing</p>
+                    </odd>
+                </c02>
+                <c02 id="ref40" level="item">
+                    <did>
+                        <unittitle>At the Orphanage: "Barn; dairy stalls, farm implements; potato bins"</unittitle>
+                        <container id="cid387760" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid387760" type="Item">11</container>
+                        <unitdate>[n.d.]</unitdate>
+                    <dao entityref="xt7d251fkp3s_11_1"/></did>
+                    <odd id="ref41">
+                        <head>General note</head>
+                        <p>(3x4) b&amp;w print on cardboard backing</p>
+                    </odd>
+                </c02>
+                <c02 id="ref43" level="item">
+                    <did>
+                        <unittitle>At the Orphanage: "Farmer's House; smoke house with 20 hams being cured"</unittitle>
+                        <container id="cid387758" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid387758" type="Item">12</container>
+                        <unitdate>[n.d.]</unitdate>
+                    <dao entityref="xt7d251fkp3s_12_1"/></did>
+                    <odd id="ref44">
+                        <head>General note</head>
+                        <p>(3x4) b&amp;w print on cardboard backing</p>
+                    </odd>
+                </c02>
+                <c02 id="ref46" level="item">
+                    <did>
+                        <unittitle>At the Orphanage: "Boys' Dormitory, constructed of old brick from the Bellwood School Bldg."</unittitle>
+                        <container id="cid387756" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid387756" type="Item">13</container>
+                        <unitdate>[n.d.]</unitdate>
+                    <dao entityref="xt7d251fkp3s_13_1"/></did>
+                    <odd id="ref47">
+                        <head>General note</head>
+                        <p>(3x4) b&amp;w print on cardboard backing</p>
+                    </odd>
+                </c02>
+                <c02 id="ref49" level="item">
+                    <did>
+                        <unittitle>At the Orphanage: "Girls' Dormitory, Bevy Girls, Boone Building; Provided by W.G. Duncan. Memorial to his sister, Ms. Boone." Group of girls in front of house.</unittitle>
+                        <container id="cid387754" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid387754" type="Item">14</container>
+                        <unitdate>[n.d.]</unitdate>
+                    <dao entityref="xt7d251fkp3s_14_1"/></did>
+                    <odd id="ref50">
+                        <head>General note</head>
+                        <p>(3x4) b&amp;w print on cardboard backing</p>
+                    </odd>
+                </c02>
+                <c02 id="ref52" level="item">
+                    <did>
+                        <unittitle>"Presbyterian Church nearby; where the children and all worship."</unittitle>
+                        <container id="cid387752" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid387752" type="Item">15</container>
+                        <unitdate>[n.d.]</unitdate>
+                    <dao entityref="xt7d251fkp3s_15_1"/></did>
+                    <odd id="ref53">
+                        <head>General note</head>
+                        <p>(3x4) b&amp;w print on cardboard backing</p>
+                    </odd>
+                </c02>
+                <c02 id="ref55" level="item">
+                    <did>
+                        <unittitle>Public School; Anchorage, KY where all the children attend school."</unittitle>
+                        <container id="cid387750" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid387750" type="Item">16</container>
+                        <unitdate>[n.d.]</unitdate>
+                    <dao entityref="xt7d251fkp3s_16_1"/></did>
+                    <odd id="ref56">
+                        <head>General note</head>
+                        <p>(3x4) b&amp;w print on cardboard backing</p>
+                    </odd>
+                </c02>
+            </c01>
+            <c01 id="ref58" level="series">
+                <did>
+                    <unittitle>Portrait</unittitle>
+                    <unitid>Series II. </unitid>
+                </did>
+                <c02 id="ref59" level="item">
+                    <did>
+                        <unittitle>Dr. Thomas Cleland</unittitle>
+                        <container id="cid387748" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid387748" type="Item">17</container>
+                        <unitdate>[n.d.]</unitdate>
+                    <dao entityref="xt7d251fkp3s_17_1"/></did>
+                    <odd id="ref60">
+                        <head>General note</head>
+                        <p>(5x7) b&amp;w print</p>
+                    </odd>
+                </c02>
+                <c02 id="ref62" level="item">
+                    <did>
+                        <unittitle>"Picture of the old 'Mulberry Church', in Shelby County, Ky. at which Rev. Dr. Sam'l R. Wilson was pastor from 1863 to 1865. Copied by 'Muller, Photographer' from original photograph, belonging to Mr. Joseph A. Logan, of Christians. Copies obtained January 12, 1903. The building shown is no longer standing, having been torn down and a new building erected on a slightly different site in 1894-1895. Sam'l M. Wilson". People in front of church.</unittitle>
+                        <container id="cid387746" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid387746" type="Item">18</container>
+                        <unitdate>[n.d.]</unitdate>
+                    <dao entityref="xt7d251fkp3s_18_1"/></did>
+                    <odd id="ref63">
+                        <head>General note</head>
+                        <p>(8x10) b&amp;w print</p>
+                    </odd>
+                </c02>
+            </c01>
+            <c01 id="ref65" level="series">
+                <did>
+                    <unittitle>Oversize</unittitle>
+                    <unitid>Series III. </unitid>
+                </did>
+                <c02 id="ref66" level="item">
+                    <did>
+                        <unittitle>A group picture on two separate photos with very wide angle lens</unittitle>
+                        <container id="cid387745" type="Folder" label="Mixed materials">1</container>
+                        <container parent="cid387745" type="Item">19</container>
+                        <unitdate>[n.d.]</unitdate>
+                    </did>
+                    <odd id="ref67">
+                        <head>General note</head>
+                        <p>oversize photo</p>
+                    </odd>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

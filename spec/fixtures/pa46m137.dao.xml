@@ -1,0 +1,1089 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<ead xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+<eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft">
+<eadid>pa46m137</eadid>
+<filedesc>
+<titlestmt>
+<titleproper>Guide to the Jeffrey Family Photographic Collection, <date>1840-1900</date>
+</titleproper>
+<author>Processed by: Jason Flahardy; machine-readable finding aid created by: Christian Trombetta</author>
+</titlestmt>
+<publicationstmt>
+<publisher>Special Collections</publisher>
+<address>
+<addressline>Audio-Visual Archives</addressline>
+<addressline>Special Collections</addressline>
+<addressline>University of Kentucky</addressline>
+<addressline>Margaret I. King Library</addressline>
+<addressline>Lexington, KY 40506-0039</addressline>
+<addressline>Phone: (859) 257-8611</addressline>
+<addressline>Fax: (859) 257-6311</addressline>
+<addressline>Email: sclref@lsv.uky.edu</addressline>
+<addressline>URL: http://www.uky.edu/Libraries/libpage.php?lweb_id=391&amp;llib_id=13</addressline>
+</address>
+<p>
+<date> Copyright 2005</date> University of Kentucky Libraries. All Rights Reserved.</p>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation>Machine-readable finding aid derived from typescript by rekeying. Date of source: <date>2004</date>
+</creation>
+<langusage>Description is in <language>English.</language>
+</langusage>
+</profiledesc>
+</eadheader>
+<frontmatter>
+<titlepage>
+<titleproper>Guide to the Jeffrey Family Photographic Collection, <date>1840-1900</date>
+</titleproper>
+<num>Collection number: PA46M137</num>
+<publisher>
+</publisher>
+<list type="simple">
+<head>Contact Information</head>
+<item>Audio-Visual Archives</item>
+<item>Special Collections</item>
+<item>University of Kentucky</item>
+<item>Margaret I. King Library</item>
+<item>Lexington, KY 40506-0039</item>
+<item>Phone: (859) 257-2654</item>
+<item>Fax: (859) 257-6311</item>
+<item>Email: <extref href="mailto:sclref@lsv.uky.edu">sclref@lsv.uky.edu</extref>
+</item>
+<item>URL: <extref href="http://www.uky.edu/Libraries/libpage.php?lweb_id=391&amp;llib_id=13"> http://www.uky.edu/Libraries/libpage.php?lweb_id=391&amp;llib_id=13</extref>
+</item>
+</list>
+<list type="simple">
+<item>Processed by: Jason Flahardy</item>
+<item>Date Completed:  2004</item>
+<item>Encoded by:  Christian Trombetta</item>
+</list>
+<p> Copyright 2005 University of Kentucky. All Rights Reserved.</p>
+</titlepage>
+</frontmatter>
+<archdesc level="collection" type="inventory" audience="external" relatedencoding="marc21">
+<did>
+
+<unittitle label="Title">Guide to the Jeffrey Family Photographic Collection, 
+</unittitle>
+<unitid type="Call Number">PA46M137</unitid>
+<origination label="creator">
+<persname>Ross, Jane Charlotte McConnell (?-1869)</persname>
+<persname>Jeffrey Family</persname>
+<persname>Jeffrey-Morgan Family</persname>
+</origination>
+<physdesc label="Extent">
+<extent>.5 cu. ft. (2 boxes): 76 items</extent>
+</physdesc>
+<langmaterial>The materials are in <language encodinganalog="041" langcode="eng">English.</language>
+</langmaterial>
+<repository label="Repository">
+<corpname>University of Kentucky Special Collections</corpname>
+<address>
+<addressline>Lexington, Kentucky 40506</addressline>
+</address>
+</repository>
+<!--<unitloc label="Shelf location">For current information on the location of these materials, please consult the library's online catalog.</unitloc>-->
+<unitdate type="inclusive">1840-1900</unitdate></did>
+<descgrp type="admin">
+<accessrestrict>
+<p>Collection is available to researchers by appointment.</p>
+</accessrestrict>
+<userestrict>
+<p>All images reside in the public domain.</p>
+</userestrict>
+<prefercite>
+<p>[Identification of item], Guide to the Jeffrey Family Photographic Collection, PA46M137, Special Collections, University of Kentucky.</p>
+</prefercite>
+</descgrp>
+<controlaccess>
+<subject>Allen, Martha</subject>
+<subject>Confederate States of America. Army. Morgan's Cavalry Division</subject>
+<subject>Hecker, Guy, 1856-1938</subject>
+<subject>Hunt-Morgan Family</subject>
+<subject>Jeffrey Family</subject>
+<subject>Jeffrey, Alexander, 1815-1899</subject>
+<subject>Jeffrey, Alexander Jr., ?-1902</subject>
+<subject>Jeffrey, Charlotte Ross, 1841-1904</subject>
+<subject>Jeffrey, Clarissa Greig, 1854-1892</subject>
+<subject>Jeffrey, John, 1817-1881</subject>
+<subject>Jeffrey, Julia G., 1839-?</subject>
+<subject>Jeffrey, Mary Higham, 1858-1935</subject>
+<subject>Jeffrey, Virginia Abercrombie, 1867-1934</subject>
+<subject>Jeffrey, William, 1812-1867</subject>
+<subject>Lexington Gas Company (Ky.)</subject>
+<subject>Morgan Calvin Cogswell III, 1873-1908</subject>
+<subject>Morgan, John Hunt, 1825-1864</subject>
+<subject>Morgan, John Hunt, 1870-1940</subject>
+<subject>Parrish, Henry S.</subject>
+<subject>Pierson, Charles</subject>
+<subject>Porter, Albert Augustus, 1830-1888</subject>
+<subject>Preston, William, 1816-1887</subject>
+<subject>Ross, Jane Charlotte McConnell, ?-1869</subject>
+<subject>Speed, Alice Keats</subject>
+<subject>Vertner, Rosa Griffith (Johnson)(Jeffrey), 1828-1894</subject>
+</controlaccess>
+<bioghist>
+<p>The Jeffrey Family of Rochester and Canandaigua, New York, and later of Lexington and Louisville, Kentucky were natives of Scotland who immigrated to America in the 1850s. John Jeffrey (1817-1881) owned and operated John Jeffrey and Co., which built and managed coal gas companies in many southern and midwestern cities and two in Cuba. John Jeffrey eventually settled in Louisville, KY and married Georgiana Augusta Wylie Keats (1798-1879), the widow of George Keats (1797-1841) and the brother of the famed English poet, John Keats (1795-1821).</p>
+<p>Working with John was his brother, Alexander Jeffrey (1815-1899), who served as president of the Lexington (Ky.) Gas Company during the latter half of the 19th century. Alexander's first wife, Delia Granger, bore him at least two daughters, Julia G. Jeffrey (1839-?) (married to Albert Augustus Porter (1837-1888)) and Charlotte Ross Jeffrey (1841-1904) (married to Charles Pierson). Both daughters continued to live in Rochester and Canandaigua, New York, as did John and Alexander's brother William Jeffrey (1812-1867) and his children.</p>
+<p>Widowed sometime in the 1850s, Alexander met his 2nd wife, Rosa Griffith Vertner (1828-1894), poetess, novelist, and widow of Claudius M. Johnson (?-1861), whom he married in 1862. At the time of their marriage, Rosa had four living children: Dan Vertner Johnson (1848-?), Henry Johnson (1850-?), Rosa Vertner Johnson (1854-), and Claudius M. Johnson Jr. (1852-1919), who served as Lexington mayor from 1880-1889. Claudius Jr. married Anne America Morgan (1865-1915), 2nd cousin of Confederate General John Hunt Morgan.</p>
+<p>Rosa and Alexander went on to have at least three children of their own: Alexander Jeffrey Jr. (?-1902), Dunbar Jeffrey (1866-1892) and Virginia Abercrombie Jeffrey (1867-1934). Also living in Lexington with Alexander Sr. at this time was his maternal aunt Jane Charlotte McConnell Ross (?-1869). Alexander Jr. married Martha Allen, daughter of T.N. Allen, who was a friend of Alexander Sr. friend from Olympia, Washington. Virginia Abercrombie married John Hunt Morgan II (1870-1940), nephew of Confederate General John Hunt Morgan.</p>
+</bioghist>
+<scopecontent>
+<p>The <title>Jeffrey Family Photographic Collection, 1840-1900</title> consists of tintypes, albumen cartes de visite, and gelatin silver prints of the Jeffrey Family of Scotland, Rochester, New York, Louisville and Lexington, Kentucky and a few personal photographs by John Hunt Morgan II (1870-1940), husband of Virginia Abercrombie Jeffrey (1876-1934).</p>
+</scopecontent>
+<descgrp type="add">
+<relatedmaterial>
+<head>Related Material</head>
+<p>The <title>Jeffrey Family Photographic Collection, 1840-1900</title> consists of tintypes, albumen carte-de-visite, and gelatin silver prints of the Jeffrey Family of Scotland, Rochester, New York, and Louisville and Lexington, Kentucky and a few personal photographs by John Hunt Morgan (II) (1870-1940), husband of Virginia Abercrombie Jeffrey (1876-1934).</p>
+<p>Items #45-76 were distributed loose in the <title>Jeffrey Family Papers, 1818-1903</title> (46M137). Series consists of photographs of Alexander Jeffrey (1815-1899) and other members of the Jeffrey family. The series appears to have been assembled or produced by Virginia Abercrombie Jeffrey (1876-1934) and her husband John Hunt Morgan (II) (1870-1940). Items #67-71 appear to have typed notations on the back by John Hunt Morgan (II).</p>
+<p>Stanton, Charles P. <title>Bluegrass pioneers: a chronicle of the Hunt and Morgan families of Lexington, Kentucky including their antecedents and descendants</title>. Brooklyn, NY: C.P. Stanton, 1996.</p>
+<p>
+<title>Jeffrey Family Papers, 1818-1903</title>, 46M137, Special Collections, University of Kentucky Libraries.</p>
+<p>
+<extref href="http://kdl.kyvl.org/cgi/f/findaid/findaid-idx?type=simple;c=kyead;view=text;subview=fulltext;id=trans60">
+<title>John Hunt Morgan II Collection, 1815-1940</title>
+</extref>, MSC 23, Special Collections, Transylvania University, Lexington.</p>
+<p>
+<title>Alexander Jeffrey Papers, 1835-1899</title>, Special Collections, The Filson Historical Society, Louisville, Kentucky</p>
+<p>
+<title>John Jeffrey Papers, 1836-1879</title>, Special Collections, The Filson Historical Society, Louisville, Kentucky</p>
+<p>
+<title>Rosa Vertner Jeffrey Papers, 1855-1892</title>, Special Collections, The Filson Historical Society, Louisville, Kentucky</p>
+<p>
+<title>William Jeffrey Papers, 1852-1876</title>, Special Collections, The Filson Historical Society, Louisville, Kentucky</p>
+</relatedmaterial>
+</descgrp>
+<dsc type="combined">
+<head>Container List</head>
+<c01 level="series">
+<did>
+<unittitle>Jane Charlotte McConnell Ross Album</unittitle>
+</did>
+<scopecontent>
+<p>Items #1-44 were housed in a photographic album identified as belonging to Jane Charlotte McConnell Ross (?-1869), the maternal aunt of Alexander Jeffrey (1815-1899). This series consists of Jeffrey family members, focusing on the Rochester and Canandaigua, New York branches of the family.</p>
+</scopecontent>
+<c02 level="item">
+<did>
+<container type="box" label="Box">1</container>
+<container type="othertype" label="item">1</container>
+<unittitle>"J. McConnell my brother" written under image on album page (Caldest, Blanford &amp; Co., London, England), 
+</unittitle>
+<note>
+<p>Albumen Cartes-de-visite</p>
+</note>
+
+<unitdate type="inclusive">[n.d.]</unitdate><dao entityref="xt73n58cg87g_1_1"/></did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box" label="Box">1</container>
+<container type="othertype" label="item">2</container>
+<unittitle>Unidentified women (Powelson, Rochester, NY), 
+</unittitle>
+<note>
+<p>Albumen Cartes-de-visite</p>
+</note>
+
+<unitdate type="inclusive">[n.d.]</unitdate><dao entityref="xt73n58cg87g_1_2"/></did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box" label="Box">1</container>
+<container type="othertype" label="item">3</container>
+<unittitle>Commercially produced image entitled "Domestic Life in Turkey / As introduced at the Lectures on Turkey by Mr. Oscanyan."; note in pencil on back: "Dear Father please / accept this for your / book  I selected it out / of a set of Turkish / ones because the / Lady looks so like / [illegible], every one is / struck with the / likeness / Bessie (Chas. D. Fredricks &amp; Co.), 
+</unittitle>
+<note>
+<p>Albumen Cartes-de-visite</p>
+</note>
+
+<unitdate type="inclusive">[n.d.]</unitdate><dao entityref="xt73n58cg87g_1_3"/></did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box" label="Box">1</container>
+<container type="othertype" label="item">4</container>
+<unittitle>Brigadier General William Preston (1816-1887), C.S.A.; Lexington, KY native; in uniform; back of the image notes in ink: "Robert Wickliffe Preston / Havana 4 March 1964 " (C. D. Fredricks and Co., Habana (Havana, Cuba)), 
+</unittitle>
+<note>
+<p>Albumen Cartes-de-visite</p>
+</note>
+
+<unitdate type="inclusive">1864</unitdate><dao entityref="xt73n58cg87g_1_4"/></did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box" label="Box">1</container>
+<container type="othertype" label="item">5</container>
+<unittitle>Charlotte Ross Jeffrey (1st marriage: Pierson) (2nd marriage: Hamilton) (1841-1904)  Same image as #12 (Brady, New York, NY and Washington, D.C.), 
+</unittitle>
+<note>
+<p>Albumen Cartes-de-visite</p>
+</note>
+
+<unitdate type="inclusive">[n.d.]</unitdate><dao entityref="xt73n58cg87g_1_5"/></did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box" label="Box">1</container>
+<container type="othertype" label="item">6</container>
+<unittitle>April Adams (not a firm identification) (unknown), 
+</unittitle>
+<note>
+<p>Albumen Cartes-de-visite</p>
+</note>
+
+<unitdate type="inclusive">[n.d.]</unitdate><dao entityref="xt73n58cg87g_1_6"/></did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box" label="Box">1</container>
+<container type="othertype" label="item">7</container>
+<unittitle>William Jeffrey (1815-1867) with his two daughters (left to right), Clarissa Greig Jeffrey (1854-1892) and Mary Higham Jeffrey (1858-1935) (unknown), 
+</unittitle>
+<note>
+<p>Albumen Cartes-de-visite</p>
+</note>
+
+<unitdate type="inclusive">[n.d.]</unitdate><dao entityref="xt73n58cg87g_1_7"/></did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box" label="Box">1</container>
+<container type="othertype" label="item">8</container>
+<unittitle>"Mrs. Willme Junison [?]" written under image on album page (unknown), 
+</unittitle>
+<note>
+<p>Albumen Cartes-de-visite</p>
+</note>
+
+<unitdate type="inclusive">[n.d.]</unitdate><dao entityref="xt73n58cg87g_1_8"/></did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box" label="Box">1</container>
+<container type="othertype" label="item">9</container>
+<unittitle>"Jeffrey Hill York [?] Rissi [?]" written in pencil along bottom of backing card (Milne, Photographer, Hamilton, C. W.), 
+</unittitle>
+<note>
+<p>Albumen Cartes-de-visite</p>
+</note>
+
+<unitdate type="inclusive">[n.d.]</unitdate><dao entityref="xt73n58cg87g_1_9"/></did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box" label="Box">1</container>
+<container type="othertype" label="item">10</container>
+<unittitle>"Charles Th[?] Pierson" written under image on album page, Charles Pierson was the husband of Charlotte Ross Jeffrey (Faris, 751 Broadway; tax stamp dated "7 Jan 71"), 
+</unittitle>
+<note>
+<p>Albumen Cartes-de-visite</p>
+</note>
+
+<unitdate type="inclusive">1871</unitdate><dao entityref="xt73n58cg87g_1_10"/></did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box" label="Box">1</container>
+<container type="othertype" label="item">11</container>
+<unittitle>Alexander Jeffrey (1815-1899) (James McPherson, Photographer, Niagara Falls, NY), 
+</unittitle>
+<note>
+<p>Albumen Cartes-de-visite</p>
+</note>
+
+<unitdate type="inclusive">[n.d.]</unitdate><dao entityref="xt73n58cg87g_1_11"/></did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box" label="Box">1</container>
+<container type="othertype" label="item">12</container>
+<unittitle>Charlotte Ross Jeffrey (1st marriage: Pierson) (2nd marriage: Hamilton) (1841-1904); written in pencil on back: "To dear Aunt Ross / from / Charlotte"; Same image as #5 (Brady, New York, NY and Washington, D.C.), 
+</unittitle>
+<note>
+<p>Albumen Cartes-de-visite</p>
+</note>
+
+<unitdate type="inclusive">[n.d.]</unitdate><dao entityref="xt73n58cg87g_1_12"/></did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box" label="Box">1</container>
+<container type="othertype" label="item">13</container>
+<unittitle>Agnes Cunningham (not a firm identification); written on back in ink: "To dear Miss Rosa / Nov 25th 1861" (unknown), 
+</unittitle>
+<note>
+<p>Albumen Cartes-de-visite</p>
+</note>
+
+<unitdate type="inclusive">[n.d.]</unitdate><dao entityref="xt73n58cg87g_1_13"/></did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box" label="Box">1</container>
+<container type="othertype" label="item">14</container>
+<unittitle>Albert Augustus Porter (1838-1888); same image as #21 (James McPherson, Photographer, Niagara Falls, NY), 
+</unittitle>
+<note>
+<p>Albumen Cartes-de-visite</p>
+</note>
+
+<unitdate type="inclusive">[n.d.]</unitdate><dao entityref="xt73n58cg87g_1_14"/></did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box" label="Box">1</container>
+<container type="othertype" label="item">15</container>
+<unittitle>Charlotte Ross Jeffrey (1st marriage: Pierson) (2nd marriage: Hamilton) (1844-1904) (S. Mason, Niagara Falls, NY), 
+</unittitle>
+<note>
+<p>Albumen Cartes-de-visite</p>
+</note>
+
+<unitdate type="inclusive">[n.d.]</unitdate><dao entityref="xt73n58cg87g_1_15"/></did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box" label="Box">1</container>
+<container type="othertype" label="item">16</container>
+<unittitle>Julia Jeffrey Porter (1839-?) with unidentified infant; same as #20 (James McPherson, Photographer, Niagara Falls, NY), 
+</unittitle>
+<note>
+<p>Albumen Cartes-de-visite</p>
+</note>
+
+<unitdate type="inclusive">[n.d.]</unitdate><dao entityref="xt73n58cg87g_1_16"/></did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box" label="Box">1</container>
+<container type="othertype" label="item">17</container>
+<unittitle>Two unidentified children (unknown), 
+</unittitle>
+<note>
+<p>Albumen Cartes-de-visite</p>
+</note>
+
+<unitdate type="inclusive">[n.d.]</unitdate><dao entityref="xt73n58cg87g_1_17"/></did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box" label="Box">1</container>
+<container type="othertype" label="item">18</container>
+<unittitle>April Adams (not a firm identification) (Brady, New York, NY and Washington, D.C.), 
+</unittitle>
+<note>
+<p>Albumen Cartes-de-visite</p>
+</note>
+
+<unitdate type="inclusive">[n.d.]</unitdate><dao entityref="xt73n58cg87g_1_18"/></did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box" label="Box">1</container>
+<container type="othertype" label="item">19</container>
+<unittitle>Unidentified woman (Powelson, Rochester, NY), 
+</unittitle>
+<note>
+<p>Albumen Cartes-de-visite</p>
+</note>
+
+<unitdate type="inclusive">[n.d.]</unitdate><dao entityref="xt73n58cg87g_1_19"/></did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box" label="Box">1</container>
+<container type="othertype" label="item">20</container>
+<unittitle>Julia Jeffrey Porter (1839-?) with unidentified infant; same as #16 (James McPherson, Photographer, Niagara Falls, NY), 
+</unittitle>
+<note>
+<p>Albumen Cartes-de-visite</p>
+</note>
+
+<unitdate type="inclusive">[n.d.]</unitdate><dao entityref="xt73n58cg87g_1_20"/></did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box" label="Box">1</container>
+<container type="othertype" label="item">21</container>
+<unittitle>Albert Augustus Porter (1838-1888); same as image #14 (James McPherson, Photographer, Niagara Falls, NY), 
+</unittitle>
+<note>
+<p>Albumen Cartes-de-visite</p>
+</note>
+
+<unitdate type="inclusive">[n.d.]</unitdate><dao entityref="xt73n58cg87g_1_21"/></did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box" label="Box">1</container>
+<container type="othertype" label="item">22</container>
+<unittitle>"April Adams" written under image on album page (J. F. Ryder, Cleveland, OH), 
+</unittitle>
+<note>
+<p>Albumen Cartes-de-visite</p>
+</note>
+
+<unitdate type="inclusive">[n.d.]</unitdate><dao entityref="xt73n58cg87g_1_22"/></did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box" label="Box">1</container>
+<container type="othertype" label="item">23</container>
+<unittitle>"Miss Beattre [?]" written under image on album page (J. B. Roberts &amp; Co., Rochester, NY), 
+</unittitle>
+<note>
+<p>Albumen Cartes-de-visite</p>
+</note>
+
+<unitdate type="inclusive">[n.d.]</unitdate><dao entityref="xt73n58cg87g_1_23"/></did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box" label="Box">1</container>
+<container type="othertype" label="item">24</container>
+<unittitle>Unidentified infant (possibly Alexander Jeffrey Jr.); written on the backing card in ink: "For Aunt Ross for Alex." (unknown), 
+</unittitle>
+<note>
+<p>Albumen Cartes-de-visite</p>
+</note>
+
+<unitdate type="inclusive">[n.d.]</unitdate><dao entityref="xt73n58cg87g_1_24"/></did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box" label="Box">1</container>
+<container type="othertype" label="item">25</container>
+<unittitle>"Mr. Monroe" written under image on album page (Brady, New York, NY), 
+</unittitle>
+<note>
+<p>Albumen Cartes-de-visite</p>
+</note>
+
+<unitdate type="inclusive">[n.d.]</unitdate><dao entityref="xt73n58cg87g_1_25"/></did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box" label="Box">1</container>
+<container type="othertype" label="item">26</container>
+<unittitle>William McTaggart; written under image on album page: "Wm McTaggart Harrow School" (F. H. Mares, Dublin School of Photography), 
+</unittitle>
+<note>
+<p>Albumen Cartes-de-visite</p>
+</note>
+
+<unitdate type="inclusive">[n.d.]</unitdate><dao entityref="xt73n58cg87g_1_26"/></did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box" label="Box">1</container>
+<container type="othertype" label="item">27</container>
+<unittitle>"April Adams" written under image on album page (Finley &amp; son, Canadaigua, NY), 
+</unittitle>
+<note>
+<p>Albumen Cartes-de-visite</p>
+</note>
+
+<unitdate type="inclusive">[n.d.]</unitdate><dao entityref="xt73n58cg87g_1_27"/></did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box" label="Box">1</container>
+<container type="othertype" label="item">28</container>
+<unittitle>"Angus McTaggart / 42 Montague / London" written under image on album page (P. F. Cooper, Philadelphia, PA), 
+</unittitle>
+<note>
+<p>Albumen Cartes-de-visite</p>
+</note>
+
+<unitdate type="inclusive">[n.d.]</unitdate><dao entityref="xt73n58cg87g_1_28"/></did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box" label="Box">1</container>
+<container type="othertype" label="item">29</container>
+<unittitle>Charlotte Ross Jeffrey (1st marriage: Pierson) (2nd marriage: Hamilton) (1844-1904) (J. Marsden Fox / Menzo E. Gates / Rochester, NY), 
+</unittitle>
+<note>
+<p>Albumen Cartes-de-visite</p>
+</note>
+
+<unitdate type="inclusive">[n.d.]</unitdate><dao entityref="xt73n58cg87g_1_29"/></did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box" label="Box">1</container>
+<container type="othertype" label="item">30</container>
+<unittitle>Unidentified woman (Levitsky, 22, Rue de Choiseul), 
+</unittitle>
+<note>
+<p>Albumen Cartes-de-visite</p>
+</note>
+
+<unitdate type="inclusive">[n.d.]</unitdate><dao entityref="xt73n58cg87g_1_30"/></did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box" label="Box">1</container>
+<container type="othertype" label="item">31</container>
+<unittitle>(left to right), Clarissa Greig Jeffrey (1854-1892) and Mary Highham Jeffrey (1858-1935); written on back in pencil: "C+M Jeffrey / Sept. 16 1861" (unknown), 
+</unittitle>
+<note>
+<p>Albumen Cartes-de-visite</p>
+</note>
+
+<unitdate type="inclusive">[n.d.]</unitdate><dao entityref="xt73n58cg87g_1_31"/></did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box" label="Box">1</container>
+<container type="othertype" label="item">32</container>
+<unittitle>"Henriette Jelf-Sharp 1865" written in ink on back (Window &amp; Bridge; 63 Baker St., London), 
+</unittitle>
+<note>
+<p>Albumen Cartes-de-visit; </p>
+</note>
+
+<unitdate type="inclusive">1865</unitdate><dao entityref="xt73n58cg87g_1_32"/></did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box" label="Box">1</container>
+<container type="othertype" label="item">33</container>
+<unittitle>Unidentifed woman (Powelson, Rochester, NY), 
+</unittitle>
+<note>
+<p>Albumen Cartes-de-visite</p>
+</note>
+
+<unitdate type="inclusive">[n.d.]</unitdate><dao entityref="xt73n58cg87g_1_33"/></did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box" label="Box">1</container>
+<container type="othertype" label="item">34</container>
+<unittitle>Unidentified man (J. H. Kent, Rochester, NY), 
+</unittitle>
+<note>
+<p>Albumen Cartes-de-visite</p>
+</note>
+
+<unitdate type="inclusive">[n.d.]</unitdate><dao entityref="xt73n58cg87g_1_34"/></did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box" label="Box">1</container>
+<container type="othertype" label="item">35</container>
+<unittitle>Charlotte Ross Jeffrey (1st marriage: Pierson) (2nd marriage: Hamilton) (1844-1904); written on the back in pencil: "C. J. Pierson" (Charlotte Jeffrey Pierson) (W. Kurtz, NY), 
+</unittitle>
+<note>
+<p>Albumen Cartes-de-visite</p>
+</note>
+
+<unitdate type="inclusive">[n.d.]</unitdate><dao entityref="xt73n58cg87g_1_35"/></did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box" label="Box">1</container>
+<container type="othertype" label="item">36</container>
+<unittitle>"Pointer and Partridge." printed along the bottom of the backing card; commercially produced reproduction of a painting or illustration (New York Photographic Co., New York, NY), 
+</unittitle>
+<note>
+<p>Albumen Cartes-de-visite</p>
+</note>
+
+<unitdate type="inclusive">[n.d.]</unitdate><dao entityref="xt73n58cg87g_1_36"/></did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box" label="Box">1</container>
+<container type="othertype" label="item">37</container>
+<unittitle>Niagara Falls, NY; written in ink on the back: "For dear Father / on his birthday" (James McPherson, Photographer, Niagara Falls, NY), 
+</unittitle>
+<note>
+<p>Albumen Cartes-de-visite</p>
+</note>
+
+<unitdate type="inclusive">[n.d.]</unitdate><dao entityref="xt73n58cg87g_1_37"/></did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box" label="Box">1</container>
+<container type="othertype" label="item">38</container>
+<unittitle>Unidentified woman (S. Mason, Niagara Falls, NY), 
+</unittitle>
+<note>
+<p>Albumen Cartes-de-visite</p>
+</note>
+
+<unitdate type="inclusive">[n.d.]</unitdate><dao entityref="xt73n58cg87g_1_38"/></did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box" label="Box">1</container>
+<container type="othertype" label="item">39</container>
+<unittitle>Unidentified woman (J. T. Upson, Buffalo, NY), 
+</unittitle>
+<note>
+<p>Albumen Cartes-de-visite</p>
+</note>
+
+<unitdate type="inclusive">[n.d.]</unitdate><dao entityref="xt73n58cg87g_1_39"/></did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box" label="Box">1</container>
+<container type="othertype" label="item">40</container>
+<unittitle>Charles Pierson (J. Marsden Fox / Menzo E. Gates / Rochester, NY), 
+</unittitle>
+<note>
+<p>Albumen Cartes-de-visite</p>
+</note>
+
+<unitdate type="inclusive">[n.d.]</unitdate><dao entityref="xt73n58cg87g_1_40"/></did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box" label="Box">1</container>
+<container type="othertype" label="item">41</container>
+<unittitle>Unidentified Confederate soldier (Sheldon a&amp; Swymmer, New Orleans, LA), 
+</unittitle>
+<note>
+<p>Albumen Cartes-de-visite</p>
+</note>
+
+<unitdate type="inclusive">[n.d.]</unitdate><dao entityref="xt73n58cg87g_1_41"/></did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box" label="Box">1</container>
+<container type="othertype" label="item">42</container>
+<unittitle>Unidentified woman (Brady, New York, NY and Washington, D.C.), 
+</unittitle>
+<note>
+<p>Albumen Cartes-de-visite</p>
+</note>
+
+<unitdate type="inclusive">[n.d.]</unitdate><dao entityref="xt73n58cg87g_1_42"/></did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box" label="Box">1</container>
+<container type="othertype" label="item">43</container>
+<unittitle>Charlotte Ross Jeffrey (1st marriage: Pierson) (2nd marriage: Hamilton) (1844-1904) (Fox &amp; Gates, Rochester, NY), 
+</unittitle>
+<note>
+<p>Albumen Cartes-de-visite</p>
+</note>
+
+<unitdate type="inclusive">[n.d.]</unitdate><dao entityref="xt73n58cg87g_1_43"/></did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box" label="Box">1</container>
+<container type="othertype" label="item">44</container>
+<unittitle>Unidentified man (unknown), 
+</unittitle>
+<note>
+<p>Albumen Cartes-de-visite</p>
+</note>
+
+<unitdate type="inclusive">[n.d.]</unitdate><dao entityref="xt73n58cg87g_1_44"/></did>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>Jeffrey-Morgan Family</unittitle>
+</did>
+<scopecontent>
+<p>Items #45-76 were loosely distributed within the <title>Jeffrey Family Papers, 1818-1903</title> (46M137). This series consists of photographs of Alexander Jeffrey (1815-1899) and other members of the Jeffrey family. The series appears to have been assembled or produced by Virginia Abercrombie Jeffrey (1876-1934) and her husband John Hunt Morgan II (1870-1940). Items #67-71 appear to have typed notations on the back by John Hunt Morgan II.</p>
+</scopecontent>
+<c02 level="item">
+<did>
+<container type="box" label="Box">1</container>
+<container type="othertype" label="item">45</container>
+<unittitle>Alexander Jeffrey (1815-1899); same image as #11 (James McPherson, Photographer, Niagara Falls, NY), 
+</unittitle>
+<note>
+<p>Albumen Cartes-de-visite</p>
+</note>
+
+<unitdate type="inclusive">[n.d.]</unitdate><dao entityref="xt73n58cg87g_2_1"/></did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box" label="Box">1</container>
+<container type="othertype" label="item">46</container>
+<unittitle>Alexander Jeffrey (1815-1899) (Johns &amp; Faught, Lexington, KY), 
+</unittitle>
+<note>
+<p>Albumen Cartes-de-visite</p>
+</note>
+
+<unitdate type="inclusive">[n.d.]</unitdate><dao entityref="xt73n58cg87g_2_2"/></did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box" label="Box">1</container>
+<container type="othertype" label="item">47</container>
+<unittitle>Alexander Jeffrey (1815-1899) (Mullen, Lexington, KY), 
+</unittitle>
+<note>
+<p>Albumen Cabinet Card</p>
+</note>
+
+<unitdate type="inclusive">[n.d.]</unitdate><dao entityref="xt73n58cg87g_2_3"/></did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box" label="Box">1</container>
+<container type="othertype" label="item">48</container>
+<unittitle>Alexander Jeffrey (1815-1899) (Jas. Mullen, Lexington, KY), 
+</unittitle>
+<note>
+<p>Albumen Cartes-de-visite</p>
+</note>
+
+<unitdate type="inclusive">[n.d.]</unitdate><dao entityref="xt73n58cg87g_2_4"/></did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box" label="Box">1</container>
+<container type="othertype" label="item">49</container>
+<unittitle>Unidentified man and woman (unknown), 
+</unittitle>
+<note>
+<p>Albumen Cartes-de-visite</p>
+</note>
+
+<unitdate type="inclusive">[n.d.]</unitdate><dao entityref="xt73n58cg87g_2_5"/></did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box" label="Box">1</container>
+<container type="othertype" label="item">50</container>
+<unittitle>Two young boys (unknown), 
+</unittitle>
+<note>
+<p>Albumen Cartes-de-visite</p>
+</note>
+
+<unitdate type="inclusive">[n.d.]</unitdate><dao entityref="xt73n58cg87g_2_6"/></did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box" label="Box">1</container>
+<container type="othertype" label="item">51</container>
+<unittitle>"Mark Metzger" written in pencil on the back (unknown), 
+</unittitle>
+<note>
+<p>Albumen Cartes-de-visite</p>
+</note>
+
+<unitdate type="inclusive">[n.d.]</unitdate><dao entityref="xt73n58cg87g_2_7"/></did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box" label="Box">1</container>
+<container type="othertype" label="item">52</container>
+<unittitle>Unidentified woman and female child (Twyman, Ramsgate), 
+</unittitle>
+<note>
+<p>Albumen Cartes-de-visite</p>
+</note>
+
+<unitdate type="inclusive">[n.d.]</unitdate><dao entityref="xt73n58cg87g_2_8"/></did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box" label="Box">1</container>
+<container type="othertype" label="item">53</container>
+<unittitle>Unidentified young girl (Morgan, Paris KY), 
+</unittitle>
+<note>
+<p>Printing-out paper Cartes-de-visite</p>
+</note>
+
+<unitdate type="inclusive">[n.d.]</unitdate><dao entityref="xt73n58cg87g_2_9"/></did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box" label="Box">1</container>
+<container type="othertype" label="item">54</container>
+<unittitle>Two unidentified young girls and a young boy (unknown), 
+</unittitle>
+<note>
+<p>Albumen Cartes-de-visite</p>
+</note>
+
+<unitdate type="inclusive">[n.d.]</unitdate><dao entityref="xt73n58cg87g_2_10"/></did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box" label="Box">1</container>
+<container type="othertype" label="item">55</container>
+<unittitle>Alice Keats Speed (identification by unknown source) (unknown), 
+</unittitle>
+<note>
+<p>Tintype</p>
+</note>
+
+<unitdate type="inclusive">[n.d.]</unitdate><dao entityref="xt73n58cg87g_2_11"/></did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box" label="Box">1</container>
+<container type="othertype" label="item">56</container>
+<unittitle>Four unidentified men (unknown), 
+</unittitle>
+<note>
+<p>Tintype</p>
+</note>
+
+<unitdate type="inclusive">[n.d.]</unitdate><dao entityref="xt73n58cg87g_2_12"/></did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box" label="Box">1</container>
+<container type="othertype" label="item">57</container>
+<unittitle>Unidentified young boy (unknown), 
+</unittitle>
+<note>
+<p>Tintype</p>
+</note>
+
+<unitdate type="inclusive">[n.d.]</unitdate><dao entityref="xt73n58cg87g_2_13"/></did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box" label="Box">1</container>
+<container type="othertype" label="item">58</container>
+<unittitle>Unidentified infant (unknown), 
+</unittitle>
+<note>
+<p>Tintype</p>
+</note>
+
+<unitdate type="inclusive">[n.d.]</unitdate><dao entityref="xt73n58cg87g_2_14"/></did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box" label="Box">1</container>
+<container type="othertype" label="item">59</container>
+<unittitle>Unidentified girl (unknown), 
+</unittitle>
+<note>
+<p>Tintype</p>
+</note>
+
+<unitdate type="inclusive">[n.d.]</unitdate><dao entityref="xt73n58cg87g_2_15"/></did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box" label="Box">1</container>
+<container type="othertype" label="item">60</container>
+<unittitle>Unidentified girl (unknown), 
+</unittitle>
+<note>
+<p>Tintype</p>
+</note>
+
+<unitdate type="inclusive">[n.d.]</unitdate><dao entityref="xt73n58cg87g_2_16"/></did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box" label="Box">1</container>
+<container type="othertype" label="item">61</container>
+<unittitle>Unidentified man (unknown), 
+</unittitle>
+<note>
+<p>Tintype</p>
+</note>
+
+<unitdate type="inclusive">[n.d.]</unitdate><dao entityref="xt73n58cg87g_2_17"/></did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box" label="Box">1</container>
+<container type="othertype" label="item">62</container>
+<unittitle>Two unidentified women (unknown), 
+</unittitle>
+<note>
+<p>Tintype</p>
+</note>
+
+<unitdate type="inclusive">[n.d.]</unitdate><dao entityref="xt73n58cg87g_2_18"/></did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box" label="Box">1</container>
+<container type="othertype" label="item">63</container>
+<unittitle>Unidentified woman; possibly Martha Allen (Jeffrey) (unknown), 
+</unittitle>
+<note>
+<p>Gelatin printing-out paper</p>
+</note>
+
+<unitdate type="inclusive">[n.d.]</unitdate><dao entityref="xt73n58cg87g_2_19"/></did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box" label="Box">1</container>
+<container type="othertype" label="item">64</container>
+<unittitle>Unidentified woman (Dick Cable, Paris KY), 
+</unittitle>
+<note>
+<p>Gelatin printing-out paper</p>
+</note>
+
+<unitdate type="inclusive">[n.d.]</unitdate><dao entityref="xt73n58cg87g_2_20"/></did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box" label="Box">1</container>
+<container type="othertype" label="item">65</container>
+<unittitle>Virginia Abercrombie Jeffrey (?-1934) (aka Virginia Jeffrey Morgan); written in ink on back: "Virginia Jeffrey / age 4 years" (James Mullen, Lexington KY), 
+</unittitle>
+<note>
+<p>Albumen</p>
+</note>
+
+<unitdate type="inclusive">[n.d.]</unitdate><dao entityref="xt73n58cg87g_2_21"/></did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box" label="Box">1</container>
+<container type="othertype" label="item">66</container>
+<unittitle>Virginia Abercrombie Jeffrey (?-1934) (aka Virginia Jeffrey Morgan); written in ink on back: "Miss Virginia Abercrombie Jeffrey / 1876" (unknown), 
+</unittitle>
+<note>
+<p>Albumen, hand-painted</p>
+</note>
+
+<unitdate type="inclusive">[n.d.]</unitdate><dao entityref="xt73n58cg87g_2_22"/></did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box" label="Box">1</container>
+<container type="othertype" label="item">67</container>
+<unittitle>Calvin Cogswell Morgan the 3rd; typed on back: "#20. My brother, Calvin Cogswell Morgan 3rd.  Sometime in the early 90's, I should say.  J H M" (unknown), 
+</unittitle>
+<note>
+<p>Black and white developing-out paper</p>
+</note>
+
+<unitdate type="inclusive">[n.d.]</unitdate><dao entityref="xt73n58cg87g_2_23"/></did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box" label="Box">1</container>
+<container type="othertype" label="item">68</container>
+<unittitle>John Hunt Morgan Jr.; typed on back: "#21. John Hunt Morgan ( 2nd )" (unknown), 
+</unittitle>
+<note>
+<p>Black and white developing-out paper</p>
+</note>
+
+<unitdate type="inclusive">[n.d.]</unitdate><dao entityref="xt73n58cg87g_2_24"/></did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box" label="Box">1</container>
+<container type="othertype" label="item">69</container>
+<unittitle>Mike Feeney; typed on back: "# Mike Feeney, for many years, Supt. of the old Lex. Gas Works, on the South side of West Main Dtreet [sic], between Spring and Patterson Streets, on the site now occupied by the [unfinished] #25"; "26" ink on front of image (unknown), 
+</unittitle>
+<note>
+<p>Black and white developing-out paper</p>
+</note>
+
+<unitdate type="inclusive">[n.d.]</unitdate><dao entityref="xt73n58cg87g_2_25"/></did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box" label="Box">1</container>
+<container type="othertype" label="item">70</container>
+<unittitle>Martha Allen; typed on back: "Mrs. Alexander Jeffrey Jrl [sic] ( Martha Allen Jeffrey ) on left of group. Others unidentified." (unknown), 
+</unittitle>
+<note>
+<p>Black and white developing-out paper</p>
+</note>
+
+<unitdate type="inclusive">[n.d.]</unitdate><dao entityref="xt73n58cg87g_2_26"/></did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box" label="Box">1</container>
+<container type="othertype" label="item">71</container>
+<unittitle>Martha Allen; typed on back: "Mrs. Alexander Jeffrey Jr. ( Martha Allen Jeffrey ) Probably on Cemetary [sic] pond" (unknown), 
+</unittitle>
+<note>
+<p>Black and white developing-out paper</p>
+</note>
+
+<unitdate type="inclusive">[n.d.]</unitdate><dao entityref="xt73n58cg87g_2_27"/></did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box" label="Box">1</container>
+<container type="othertype" label="item">72</container>
+<unittitle>Brigadier General John Hunt Morgan (1825-1864) C.S.A.; (aka The Thunderbolt of the Confederacy); leader of the 2nd Kentucky Cavalry; printed along the bottom of the backing card: "Col. John H. Morgan / The Marion of the South" (E. Anthony, New York NY), 
+</unittitle>
+<note>
+<p>Albumen Cartes-de-visite, commercially mass-produced</p>
+</note>
+
+<unitdate type="inclusive">[n.d.]</unitdate><dao entityref="xt73n58cg87g_2_28"/></did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box" label="Box">1</container>
+<container type="othertype" label="item">73</container>
+<unittitle>Captain Henry S. Parrish (?-?) U.S.A.; 20th Kentucky Volunteer Infantry, Company A; written in pencil on the back" Yours Truly / H. S. Parrish / Capt Company A 20th Ky.Regt" (unknown), 
+</unittitle>
+<note>
+<p>Albumen Cartes-de-visite</p>
+</note>
+
+<unitdate type="inclusive">[n.d.]</unitdate><dao entityref="xt73n58cg87g_2_29"/></did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box" label="Box">1</container>
+<container type="othertype" label="item">74</container>
+<unittitle>"Captain Robert Air" written in pencil on back (unknown), 
+</unittitle>
+<note>
+<p>Albumen Cartes-de-visite</p>
+</note>
+
+<unitdate type="inclusive">[n.d.]</unitdate><dao entityref="xt73n58cg87g_2_30"/></did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box" label="Box">1</container>
+<container type="othertype" label="item">75</container>
+<unittitle>Confederate veterans reunion; typed caption: "Georgetown 'Gang' - Aug. 18th 1917 - left to right / Standing: Mike Haggard, Thomas Ewing, Jeff Zeysing, Ely Blackburn / Sitting: John Crumbaugh, Thomas Allen, W. A. Gaines, G. B. Brown, Walter Shropshire, Jas. F. Askew."; handwritten on the back: "From J. C. Zeysing / Georgetown / KY" (unknown), 
+</unittitle>
+<note>
+<p>Black and white developing-out paper</p>
+</note>
+
+<unitdate type="inclusive">[n.d.]</unitdate><dao entityref="xt73n58cg87g_2_31"/></did>
+</c02>
+<c02 level="item">
+<did>
+<container type="box" label="Box">1</container>
+<container type="othertype" label="item">76</container>
+<unittitle>Guy Hecker (1856-1938), pitcher and hitter for the Louisville Eclipse, 1882-1890 (unknown), 
+</unittitle>
+<note>
+<p>Engraving on card stock</p>
+</note>
+
+<unitdate type="inclusive">[n.d.]</unitdate><dao entityref="xt73n58cg87g_2_32"/></did>
+</c02>
+</c01>
+</dsc>
+</archdesc>
+</ead>

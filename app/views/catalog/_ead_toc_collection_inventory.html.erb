@@ -1,0 +1,23 @@
+<li class="blacklight-collection-inventory">
+  <%= link_to I18n.t('exploreuk.ead.toc.collection_inventory'), "#collection-inventory" %>
+  <% if document['ead_inventory'] -%>
+  <ul>
+    <% document['ead_inventory'].each do |item| %>
+      <% if item['level'] == "series" -%>
+        <li>
+          <%= link_to item['title'], "##{item['id']}" %>
+          <ul>
+            <% item['subitems'].each do |subitem| %>
+              <% if subitem['level'] == "subseries" -%>
+                <li>
+                  <%= link_to subitem['title'], "##{subitem['id']}" %>
+                </li>
+              <% end %>
+            <% end %>
+          </ul>
+        </li>
+      <% end -%>
+    <% end %>
+  </ul>
+  <% end -%>
+</li>

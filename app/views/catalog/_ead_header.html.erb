@@ -1,0 +1,8 @@
+<dl class="dl-horizontal dl-invert">
+  <% ead_header_fields(document).each do |field| -%>
+    <% if should_render_ead_header_field? document, field -%>
+      <dt class="blacklight-<%= ead_header_label(document, field).parameterize %>"><a name="<%= ead_header_anchor(document, field) %>"></a><%= ead_header_label(document, field) %>:</dt>
+      <dd class="blacklight-<%= ead_header_label(document, field).parameterize %>"><%= ead_header_value(document, field) %></dd>
+    <% end -%>
+  <% end -%>
+</dl>

@@ -1,0 +1,81 @@
+- :id: "sample_ead"
+  :title_t: "Sample ead"
+  :finding_aid_url_s: "https://nyx.uky.edu/dips/xt78sf2m7c9x/data/1997ms469.dao.xml"
+  :unpaged_display: true
+
+- :id: "sample_ead_1_1"
+  :title_t: "Sample ead subpage"
+  :finding_aid_url_s: "https://nyx.uky.edu/dips/xt78sf2m7c9x/data/1997ms469.dao.xml"
+  :object_id_s: "sample_ead"
+
+- :id: "sample_ead2"
+  :title_t: "Sample ead 2"
+  :finding_aid_url_s: "https://nyx.uky.edu/dips/xt7zcr5n9m6z/data/2011ms197.dao.xml"
+  :unpaged_display: true
+
+- :id: "sample_ead3"
+  :title_t: "Sample ead 3"
+  :finding_aid_url_s: "https://nyx.uky.edu/dips/xt7d251fkp3s/data/pa50w2.dao.xml"
+  :unpaged_display: true
+
+- :id: "sample_ead4"
+  :title_t: "Sample ead 4"
+  :finding_aid_url_s: "https://nyx.uky.edu/dips/xt7r7s7hr06j/data/womensupp.xml"
+  :unpaged_display: true
+
+- :id: "sample_ead5"
+  :title_t: "Sample ead 5"
+  :finding_aid_url_s: "https://nyx.uky.edu/dips/xt73n58cg87g/data/pa46m137.dao.xml"
+  :unpaged_display: true
+
+- :id: "sample_book_cats"
+  :coarse_field_b: true
+  :fine_field_s: "sample_book_cats"
+  :title_t: "Cats coarse_test"
+  :author_t: "Mr. Whiskers"
+
+- :id: "sample_book_cats_1"
+  :coarse_field_b: false
+  :fine_field_s: "sample_book_cats"
+  :title_t: "Cats coarse_test (page 1)"
+  :pdf_url_display: http://example.com
+  :reference_image_url_s: http://example.com/image.jpg
+  :text: "Meow meow meow meow."
+  :miscellaneous_t: "Nightgown of the sullen moon"
+
+- :id: "sample_book_cats_2"
+  :coarse_field_b: false
+  :fine_field_s: "sample_book_cats"
+  :title_t: "Cats coarse_test (page 2)"
+
+- :id: "sample_book_cats_3"
+  :coarse_field_b: false
+  :fine_field_s: "sample_book_cats"
+  :title_t: "Cats coarse_test (page 3)"
+
+- :id: "sample_book_dogs"
+  :coarse_field_b: true
+  :fine_field_s: "sample_book_dogs"
+  :title_t: "Dogs coarse_test"
+  :author_t: "Dr. Dachshund"
+
+- :id: "sample_book_dogs_1"
+  :coarse_field_b: false
+  :fine_field_s: "sample_book_dogs"
+  :title_t: "Dogs coarse_test (page 1)"
+
+- :id: "sample_book_dogs_2"
+  :coarse_field_b: false
+  :fine_field_s: "sample_book_dogs"
+  :title_t: "Dogs coarse_test (page 2)"
+
+- :id: "sample_book_ocelots"
+  :coarse_field_b: true
+  :fine_field_s: "sample_book_ocelots"
+  :title_t: "Ocelots coarse_test"
+  :author_t: "Ocelotta the Magnificent"
+
+- :id: "sample_book_ocelots_1"
+  :coarse_field_b: true
+  :fine_field_s: "sample_book_ocelots"
+  :title_t: "Ocelots coarse_test (page 1)"
